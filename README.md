@@ -268,30 +268,35 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 # Desktop
 
 ## Action
-* [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
+
+| Name | Description | Source |
+| ---- | ----------- | ------ |
+| OpenTomb | An open-source Tomb Raider 1-5 engine remake. | [GitHub](https://github.com/opentomb/OpenTomb) |
 
 ## Arcade
 
-* [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
-* [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
-* [Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
-* [Clonepoint](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
-* [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
-* [Duckmarines](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
-* [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
-* [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
-* [Kroniax](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
-* [Missile Command](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
-* [Mystic Mine](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
-* [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
-* [OSGG](https://github.com/DusteDdk/Osgg) - Oldskool Gravity Game, very difficult lander game in glorious vector graphics.
-* [Savage Wheels](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
-* [Space Shooter](https://github.com/prodicus/spaceShooter) - Cross platform, 2D space shooting game made using pygame.
-* [SDL-Ball](https://github.com/DusteDdk/SDL-Ball) - Pretty looking breakout clone available in most distributions.
-* [Taisei](https://github.com/laochailan/taisei) - Fan-made, open Source clone of the Touhou series.
-* [Teeworlds](https://github.com/teeworlds/teeworlds/) - Online multi-player platform 2D shooter.
-* [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
-* [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
+| Name | Description | Source |
+| ---- | ----------- | ------ |
+| hēXōn | A twin-stick-shooter with 3D graphics and a classic feel. | [GitHub](https://github.com/LucKeyProductions/heXon) |
+| C-Dogs SDL | Overhead shoot-em-up port of the classic DOS game. | [GitHub](https://github.com/cxong/cdogs-sdl) |
+| Chaos Projectile | 2D run'n'gun action game with RPG elements. | [GitHub](https://github.com/WinterLicht/Chaos-Projectile) |
+| Clonepoint | Libre clone of Gunpoint, a game in which you hack and punch your way to victory. | [GitHub](https://github.com/rohit-n/Clonepoint) |
+| DynaDungeons | Bomberman clone using the awesome open source Godot game engine. | [GitHub](https://github.com/akien-mga/dynadungeons) |
+| Duckmarines | A ChuChu Rocket remake for PC. | [GitHub](https://github.com/SimonLarsen/duckmarines) |
+| Epic Inventor | Indie, side-scrolling, action, RPG. | [GitHub](https://github.com/BlkStormy/epic-inventor) |
+| Falling Time | Arcade game inspired by Fall Down. | [GitHub](https://github.com/cxong/FallingTime) |
+| Kroniax | Sidescrolling skill-based game. | [GitHub](https://github.com/AlexAUT/Kroniax) |
+| Missile Command | Missile Command clone in Lua with LÖVE. | [GitHub](https://github.com/chadpaulson/missile-command) |
+| Mystic Mine | Single and multiplayer action game with mining carts. | [GitHub](https://github.com/koonsolo/MysticMine) |
+| OpenLieroX | Liero clone, like realtime Worms, or a 2D Quake. | [GitHub](https://github.com/albertz/openlierox) |
+| OSGG | Oldskool Gravity Game, very difficult lander game in glorious vector graphics. | [GitHub](https://github.com/DusteDdk/Osgg) |
+| Savage Wheels | 2D car crashing game similar to the old classic Destruction Derby. | [GitHub](https://github.com/petarov/savagewheels) |
+| Space Shooter | Cross platform, 2D space shooting game made using pygame. | [GitHub](https://github.com/prodicus/spaceShooter) |
+| SDL-Ball | Pretty looking breakout clone available in most distributions. | [GitHub](https://github.com/DusteDdk/SDL-Ball) |
+| Taisei | Fan-made, open Source clone of the Touhou series. | [GitHub](https://github.com/laochailan/taisei) |
+| Teeworlds | Online multi-player platform 2D shooter. | [GitHub](https://github.com/teeworlds/teeworlds/) |
+| Wannabe Tempest | Tempest(80's arcade game) clone in Java, and a small project for playing with git. | [GitHub](https://github.com/awlzac/wbt) |
+| Witch Blast | Roguelite dungeon crawl shooter similar to The Binding of Isaac. | [GitHub](https://github.com/Cirrus-Minor/witchblast) |
 
 ## FPS
 
