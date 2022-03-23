@@ -197,7 +197,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | ---- | ----------- | ------ | ---- |
 | 0hh0 | Companion game to 0hh1 by Q42. | [GitHub](https://github.com/Q42/0hn0) | [Play](http://0hh0.com) |
 | 0hh1 | Lovely little logic game by Q42. | [GitHub](https://github.com/Q42/0hh1) | [Play](http://0hh1.com) |
-| 2048 | Sliding addition game | [GitHub](https://github.com/gabrielecirulli/2048) | [Play](ttp://gabrielecirulli.github.io/2048/) |
+| 2048 | Sliding addition game | [GitHub](https://github.com/gabrielecirulli/2048) | [Play](http://gabrielecirulli.github.io/2048/) |
 | A Dark Room | Minimalist Text Adventure game written in JavaScript. | [GitHub](https://github.com/doublespeakgames/adarkroom) | [Play](http://adarkroom.doublespeakgames.com/) |
 | Anagramica | A word game and API for anagrams. | [GitHub](https://github.com/binarymax/anagramica) | [Play](http://www.anagramica.com/) |
 | Astry | WebGL maze game built with Three.js and Box2dWeb. | [GitHub](https://github.com/wwwtyro/Astray) | [Play](http://wwwtyro.github.io/Astray/) |
@@ -220,7 +220,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Infectors | Sokoban-like puzzle game developed with Phaser. | [GitHub](https://github.com/satanas/infectors) | [Play](http://satanas.github.io/infectors/) |
 | Lost! Beneath the Surface | You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark. | [GitHub](https://github.com/gamedolphin/Lost-Beneath-The-Surface) | - |
 | Maze 3D | A 3D maze game. | [GitHub](https://github.com/demonixis/Maze3D) | [Play](http://demonixis.github.io/Maze3D/) |
-| Monkey Rally | JavaScript game created for the Ludum Dare #28 jam. | [GitHub](https://github.com/antila/ludum-dare-28) | [Play](http://antila.github.io/ludum-dare-28/) |
+| Monkey Rally | JavaScript game created for the Ludum Dare jam. | [GitHub](https://github.com/antila/ludum-dare-28) | [Play](http://antila.github.io/ludum-dare-28/) |
 | Ned Et Les Maki | Puzzle game with isometric 3D graphics inspired by Sokoban. | [GitHub](https://github.com/devnewton/nedetlesmaki) | [Play](http://play.bci.im/nedetlesmaki/) |
 | Orbium | Modern version of the 90's game Log!cal. | [GitHub](https://github.com/bni/orbium) | [Play](http://bni.github.io/orbium/) |
 | Parity | A numbers puzzle game. | [GitHub](https://github.com/abejfehr/parity) | [Play](http://abefehr.com/parity/) |
@@ -319,9 +319,11 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## MMORPG
 
-* [Open Meridian](https://github.com/OpenMeridian/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed. [Play](http://openmeridian.org)
-* [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play](http://www.meridian59.com)
-* [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play](https://stendhalgame.org)
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| Open Meridian | The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed. | [GitHub](https://github.com/OpenMeridian/Meridian59) | [Play](http://openmeridian.org) |
+| Meridian 59 | The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. | [GitHub](https://github.com/Meridian59/Meridian59) | [Play](http://www.meridian59.com) |
+| Stendhal | A fun friendly and free 2D multiplayer online adventure game with an old school feel. | [GitHub](https://github.com/arianne/stendhal) | [Play](https://stendhalgame.org) |
 
 ## RPG
 
