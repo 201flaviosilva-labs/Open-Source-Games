@@ -243,21 +243,25 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Point and Click
 
-* [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play](https://the-house.arturkot.pl/)
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| The House | You're in a strange house. Can you find the way out? Is there any? | [GitHub](https://github.com/arturkot/the-house-game) | [Play](https://the-house.arturkot.pl/) |
 
 ## Others
 
-* [Beast](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
-* [binb](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game. [Play](https://binb.co)
-* [Dental Defender: Saga of the Candy Horde](https://github.com/cshepp/candyjam/) - HTML5 shooter/tower defense game for the #CandyJam. [Play](http://cas002.itch.io/dental-defenders-saga-of-the-candy-horde)
-* [Descensus 2](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
-* [Hauberk](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
-* [HeartLine](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
-* [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner. [Play](http://psiral.herokuapp.com/)
-* [CyberPong](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
-* [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
-* [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
-* [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. [Play](http://fernjager.github.io/game-off-2013/index.html)
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| Beast | An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them. | [GitHub](https://github.com/dominikwilkowski/beast.js) | - |
+| binb | Competitive, multiplayer, realtime, guess the song game. | [GitHub](https://github.com/lpinca/binb) | [Play](https://binb.co) |
+| Dental Defender: Saga of the Candy Horde | HTML5 shooter/tower defense game for the #CandyJam. | [GitHub](https://github.com/cshepp/candyjam/) | [Play](http://cas002.itch.io/dental-defenders-saga-of-the-candy-horde) |
+| Descensus 2 | A TypeScript 2D physics game. | [GitHub](https://github.com/TomWHall/Descensus2) | - |
+| Hauberk | Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser. | [GitHub](https://github.com/munificent/hauberk) | - |
+| HeartLine | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/gamebytes/heartline.github.com) | - |
+| Psiral | JavaScript/HTML5 game, GitHub Game Off 2 winner. | [GitHub](https://github.com/petarov/game-off-2013) | [Play](http://psiral.herokuapp.com/) |
+| CyberPong | Unusual Ping Pong game, adaptable with Makey Makey Kit. | [GitHub](https://github.com/dreamtocode/Cyber-Pong) | - |
+| Squirts | Well-known indie game implemented in JavaScript. | [GitHub](https://github.com/KrofDrakula/squirts) | - |
+| The Killer | Flash/ActionScript3-based "nongame". | [GitHub](https://github.com/JordanMagnuson/The-Killer) | [Play](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now) |
+| Turkey Cooking Simulator | You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. | [GitHub](https://github.com/fernjager/game-off-2013) | [Play](http://fernjager.github.io/game-off-2013/index.html) |
 
 -------
 
