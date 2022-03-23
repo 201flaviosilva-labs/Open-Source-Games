@@ -49,6 +49,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Android](#android)
   - [IOS](#ios)
 - [References](#references)
+- [License](#license)
 
 -------
 
@@ -192,48 +193,50 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Puzzle
 
-* [0hh0](https://github.com/Q42/0hn0) - Companion game to 0hh1 by Q42. [Play](http://0hh0.com)
-* [0hh1](https://github.com/Q42/0hh1) - Lovely little logic game by Q42. [Play](http://0hh1.com)
-* [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game [Play](http://gabrielecirulli.github.io/2048/)
-* [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play](http://adarkroom.doublespeakgames.com/)
-* [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams. [Play](http://www.anagramica.com/)
-* [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play](http://wwwtyro.github.io/Astray/)
-* [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm. [Play](http://gamejolt.com/games/puzzle/beatrix/27454/)
-* [BitBot](https://github.com/recardona/BitBot) - HTML/JS game where you control a bot, which must sense, plan, and act.
-* [BlicblockJS](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board.
-* [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that. [Play](http://aerolab.github.io/blockrain.js/)
-* [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home. [Play](http://henryhoffman.com/branchingout/)
-* [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics. [Play](http://www.kongregate.com/games/Sorobaid/clone-man)
-* [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play](http://js13kgames.com/games/couch-2048/index.html)
-* [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play](http://david-peter.de/cube-composer)
-* [Drunken Viking](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play](http://congusbongus.itch.io/drunken-viking)
-* [Ending](http://robotacid.com/flash/ending) - Roguelike puzzle game. [Play](http://robotacid.com/flash/ending/)
-* [Follow me! A Simon Clone](https://github.com/gamedolphin/follow_me_javascript_simon_clone) - Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine.
-* [For King](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
-* [Genetic Drift](https://github.com/DancingBanana/genetic-drift) - Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?.
-* [Hex 2048](https://github.com/jeffhou/hex-2048) - Hexgrid-based clone of 2048. [Play](https://jeffhou.github.io/hex-2048/)
-* [Hexahedral](https://github.com/mminer/hexahedral) - Push down all the blocks in the minimum number of moves. [Play](http://matthewminer.com/hexahedral)
-* [Hextris](https://github.com/Hextris/hextris) - Addictive puzzle game inspired by Tetris. [Play](http://hextris.io/)
-* [Infectors](https://github.com/satanas/infectors) - Sokoban-like puzzle game developed with Phaser. [Play](http://satanas.github.io/infectors/)
-* [Lost! Beneath the Surface](https://github.com/gamedolphin/Lost-Beneath-The-Surface) - You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark.
-* [Maze 3D](https://github.com/demonixis/Maze3D) - A 3D maze game. [Play](http://demonixis.github.io/Maze3D/)
-* [Monkey Rally](https://github.com/antila/ludum-dare-28) - JavaScript game created for the Ludum Dare #28 jam. [Play](http://antila.github.io/ludum-dare-28/)
-* [Ned Et Les Maki](https://github.com/devnewton/nedetlesmaki) - Puzzle game with isometric 3D graphics inspired by Sokoban. [Play](http://play.bci.im/nedetlesmaki/)
-* [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Log!cal. [Play](http://bni.github.io/orbium/)
-* [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game. [Play](http://abefehr.com/parity/)
-* [Pond](https://github.com/Zolmeister/pond) - A narrow fellow in the Pond. [Play](http://thepond.zolmeister.com/)
-* [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart. [Play](http://dart-lang.github.io/sample-pop_pop_win/)
-* [Prism](https://github.com/Zolmeister/prism) - Match all the colors.
-* [Push and Fork](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.. [Play](http://gelisam.com/octocarina/)
-* [Shape Experiment](https://github.com/binarymax/shape) - The shape recognition reflex game. [Play](http://shapex.org/)
-* [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game.
-* [Sudoku JS](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind. [Play it now](http://baruchel.insomnia247.nl/sudoku-js/sudoku.html)
-* [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play](http://nmoroze.github.io/swap/)
-* [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play](http://code.jerev.be/ggo13-transcube/)
-* [untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play](http://alex.nisnevich.com/untrusted/)
-* [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music.
-* [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play](http://lulea.github.io/game-off-2012/)
-* [Zop](https://github.com/Zolmeister/zop) - Connect like colors. [Play](https://zop.zolmeister.com/)
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| 0hh0 | Companion game to 0hh1 by Q42. | [GitHub](https://github.com/Q42/0hn0) | [Play](http://0hh0.com) |
+| 0hh1 | Lovely little logic game by Q42. | [GitHub](https://github.com/Q42/0hh1) | [Play](http://0hh1.com) |
+| 2048 | Sliding addition game | [GitHub](https://github.com/gabrielecirulli/2048) | [Play](ttp://gabrielecirulli.github.io/2048/) |
+| A Dark Room | Minimalist Text Adventure game written in JavaScript. | [GitHub](https://github.com/doublespeakgames/adarkroom) | [Play](http://adarkroom.doublespeakgames.com/) |
+| Anagramica | A word game and API for anagrams. | [GitHub](https://github.com/binarymax/anagramica) | [Play](http://www.anagramica.com/) |
+| Astry | WebGL maze game built with Three.js and Box2dWeb. | [GitHub](https://github.com/wwwtyro/Astray) | [Play](http://wwwtyro.github.io/Astray/) |
+| Beatrix | Music game where you arrange the drums to catch the beats and play the right rhythm. | [GitHub](https://github.com/cxong/Beatrix) | [Play](http://gamejolt.com/games/puzzle/beatrix/27454/) |
+| BitBot | HTML/JS game where you control a bot, which must sense, plan, and act. | [GitHub](https://github.com/recardona/BitBot) | - |
+| BlicblockJS | JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board. | [GitHub](https://github.com/cheshire137/blicblock-js) | - |
+| Blockrain.js | Embed & play the classic game on your site. Simple as that. | [GitHub](https://github.com/Aerolab/blockrain.js) | [Play](http://aerolab.github.io/blockrain.js/) |
+| Branching Out | Minimalist game about leaving home. | [GitHub](https://github.com/thehen/game-off-2012) | [Play](http://henryhoffman.com/branchingout/) |
+| Clone Man | Puzzle, memory, retro game with simple graphics. | [GitHub](https://github.com/adhicl/game-off-2012) | [Play](http://www.kongregate.com/games/Sorobaid/clone-man) |
+| Couch 2048 | A physics-based puzzle, loosely related to the original 2048 game. | [GitHub](https://github.com/mvasilkov/glitch2016) | [Play](http://js13kgames.com/games/couch-2048/index.html) |
+| cube-composer | A puzzle game inspired by functional programming. | [GitHub](https://github.com/sharkdp/cube-composer) | [Play](http://david-peter.de/cube-composer) |
+| Drunken Viking | Retrace your drunken rampage in reverse time. | [GitHub](https://github.com/cxong/DrunkenViking) | [Play](http://congusbongus.itch.io/drunken-viking) |
+| Ending | Roguelike puzzle game. | [GitHub](http://robotacid.com/flash/ending) | [Play](http://robotacid.com/flash/ending/) |
+| Follow me! A Simon Clone | Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine | [GitHub](https://github.com/gamedolphin/follow_me_javascript_simon_clone) | - |
+| For King | Puzzle platformer game about a king in search for his lost crown. | [GitHub](https://github.com/AD1337/ForKingGame) | [Play](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0) |
+| Genetic Drift | Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?. | [GitHub](https://github.com/DancingBanana/genetic-drift) | - |
+| Hex 2048 | Hexgrid-based clone of 2048. | [GitHub](https://github.com/jeffhou/hex-2048) | [Play](https://jeffhou.github.io/hex-2048/) |
+| Hexahedral | Push down all the blocks in the minimum number of moves. | [GitHub](https://github.com/mminer/hexahedral) | [Play](http://matthewminer.com/hexahedral) |
+| Hextris | Addictive puzzle game inspired by Tetris. | [GitHub](https://github.com/Hextris/hextris) | [Play](http://hextris.io/) |
+| Infectors | Sokoban-like puzzle game developed with Phaser. | [GitHub](https://github.com/satanas/infectors) | [Play](http://satanas.github.io/infectors/) |
+| Lost! Beneath the Surface | You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark. | [GitHub](https://github.com/gamedolphin/Lost-Beneath-The-Surface) | - |
+| Maze 3D | A 3D maze game. | [GitHub](https://github.com/demonixis/Maze3D) | [Play](http://demonixis.github.io/Maze3D/) |
+| Monkey Rally | JavaScript game created for the Ludum Dare #28 jam. | [GitHub](https://github.com/antila/ludum-dare-28) | [Play](http://antila.github.io/ludum-dare-28/) |
+| Ned Et Les Maki | Puzzle game with isometric 3D graphics inspired by Sokoban. | [GitHub](https://github.com/devnewton/nedetlesmaki) | [Play](http://play.bci.im/nedetlesmaki/) |
+| Orbium | Modern version of the 90's game Log!cal. | [GitHub](https://github.com/bni/orbium) | [Play](http://bni.github.io/orbium/) |
+| Parity | A numbers puzzle game. | [GitHub](https://github.com/abejfehr/parity) | [Play](http://abefehr.com/parity/) |
+| Pond | A narrow fellow in the Pond. | [GitHub](https://github.com/Zolmeister/pond) | [Play](http://thepond.zolmeister.com/) |
+| Pop Pop Win | Implementation of Minesweeper in Dart | [GitHub](https://github.com/dart-lang/pop-pop-win) | [Play](http://dart-lang.github.io/sample-pop_pop_win/) |
+| Prism | Match all the colors. | [GitHub](https://github.com/Zolmeister/prism) | - |
+| Push and Fork | Puzzle game in which you carry a fork, push blocks, and go back in time.. | [GitHub](https://github.com/Octocarina/game-off-2012) | [Play](http://gelisam.com/octocarina/) |
+| Shape Experiment | The shape recognition reflex game. | [GitHub](https://github.com/binarymax/shape) | [Play](http://shapex.org/) |
+| Sliding Puzzle | Sliding blocks puzzle game. | [GitHub](https://github.com/gamedolphin/sliding_puzzle) | - |
+| Sudoku JS | A Sudoku puzzle game with a clean design and mobile devices in mind. | [GitHub](https://github.com/baruchel/sudoku-js) | [Play](http://baruchel.insomnia247.nl/sudoku-js/sudoku.html) |
+| Swap | New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. | [GitHub](https://github.com/nmoroze/swap) | [Play](http://nmoroze.github.io/swap) |
+| TransCube | 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations.  | [GitHub](https://github.com/jeroenverfallie/ggo13-transcube) | [Play](http://code.jerev.be/ggo13-transcube/) |
+| untrusted | Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. | [GitHub](https://github.com/AlexNisnevich/untrusted) | [Play](http://alex.nisnevich.com/untrusted/) |
+| Matching Pairs | Made in HTML5 using Phaser as the framework, original assets and generated music. | [GitHub](https://github.com/gamedolphin/matching-pairs) | - |
+| Zoko | 3D version of Sokoban | [GitHub](https://github.com/lulea/game-off-2012) | [Play](http://lulea.github.io/game-off-2012/) |
+| Zop | Connect like colors. | [GitHub](https://github.com/Zolmeister/zop) | [Play](https://zop.zolmeister.com/) |
 
 ## Clicker
 
@@ -473,6 +476,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Games (Original Fork) | 🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. | [Link](https://github.com/leereilly/games) |
 | Magic Tools | 🎮 📝 A list of Game Development resources to make magic happen. | [Link](https://github.com/ellisonleao/magictools) |
 | Open Source Game Clones | This site tries to gather open-source remakes of great old games in one place. | [Link](https://osgameclones.com/) |
+| Awesome | 😎 Awesome lists about all kinds of interesting topics | [Link](https://github.com/sindresorhus/awesome) |
 
 # License
 
