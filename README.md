@@ -414,40 +414,42 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Strategy
 
-* [0 A.D.](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II
-* [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
-* [Colobot](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
-* [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
-* [Curse of War](https://github.com/a-nikolaev/curseofwar) - Fast-paced action strategy game with ncurses and SDL frontends.
-* [Harris](https://github.com/ec429/harris) - Strategy game based around the actions of RAF Bomber Command in the Second World War.
-* [Hedgewars](https://github.com/hedgewars/hw) - A turn based strategy, artillery, action and comedy game.
-* [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
-* [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
-* [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript. [Play](http://www.adityaravishankar.com/projects/games/lastcolony/)
-* [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
-* [Micropolis](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
-* [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
-* [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
-* [OpenFodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder
-* [OpenRA](https://github.com/OpenRA/OpenRA) - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
-* [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
-* [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
-* [Pax Britannica](https://github.com/henkboom/pax-britannica) - Underwater one-button real-time strategy game.
-* [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - Ruby game, where you play as a phone-collecting monster.
-* [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
-* [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
-* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
-* [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
-* [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
-* [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
-* [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
-* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
-* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
-* [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
-* [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
-* [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
-* [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
-* [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| 0 A.D. | 3D RTS similar to Age of Empires II | [GitHub](https://github.com/0ad/0ad) | - |
+| Caesaria | Remake of the popular citybuilder and economic sim Caesar III. | [GitHub](https://github.com/dalerank/caesaria-game) | - |
+| Colobot | A real-time strategy game with programmable bots. | [GitHub](https://github.com/colobot/colobot) | - |
+| CorsixTH | Clone of Theme Hospital. | [GitHub](https://github.com/CorsixTH/CorsixTH) | - |
+| Curse of War | Fast-paced action strategy game with ncurses and SDL frontends. | [GitHub](https://github.com/a-nikolaev/curseofwar) | - |
+| Harris | Strategy game based around the actions of RAF Bomber Command in the Second World War. | [GitHub](https://github.com/ec429/harris) | - |
+| Hedgewars | A turn based strategy, artillery, action and comedy game. | [GitHub](https://github.com/hedgewars/hw) | - |
+| KaM Remake | RTS game remake of “Knights and Merchants”  written in Delphi from scratch. | [GitHub](https://github.com/Kromster80/kam_remake) | - |
+| KeeperRL | Roguelike dungeon builder inspired by Dwarf Fortress. | [GitHub](https://github.com/miki151/keeperrl) | - |
+| Last Colony | RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript. | [GitHub](https://github.com/adityaravishankar/last-colony) | - |
+| MegaGlest | MegaGlest real-time strategy game engine (cross-platform, 3-d). | [GitHub](https://github.com/MegaGlest/megaglest-source) | - |
+| Micropolis | City-building game based on the original code for SimCity. | [GitHub](https://github.com/SimHacker/micropolis) | - |
+| openage | Clone of the Age of Empires II engine. | [GitHub](https://github.com/SFTtech/openage) | - |
+| OpenDungeons | Open source game inspired by Dungeon Keeper - Dark, damp and dangerous... | [GitHub](https://github.com/OpenDungeons/OpenDungeons) | - |
+| OpenFodder | Open-source implementation of Cannon Fodder | [GitHub](https://github.com/OpenFodder/openfodder) | - |
+| OpenRA | Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX. | [GitHub](https://github.com/OpenRA/OpenRA) | - |
+| OpenTTD | OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. | [GitHub](https://github.com/OpenTTD/OpenTTD) | - |
+| OpenXcom | Clone of the original X-COM. | [GitHub](https://github.com/SupSuper/OpenXcom) | - |
+| Pax Britannica | Underwater one-button real-time strategy game. | [GitHub](https://github.com/henkboom/pax-britannica) | - |
+| PCOTM (Phone Case of the Monster) | Ruby game, where you play as a phone-collecting monster. | [GitHub](https://github.com/jwoertink/pcotm) | - |
+| Pioneer | Game of lonely space adventure. | [GitHub](https://github.com/pioneerspacesim/pioneer) | - |
+| Polly-B-Gone | Physics platform game about a plucky wheeled robot named Polly. | [GitHub](https://github.com/mbostock/polly-b-gone) | - |
+| OpenRCT2 | Open source recreation of Rollercoaster Tycoon 2. | [GitHub](https://github.com/OpenRCT2/OpenRCT2) | - |
+| Race into Space | Turn-based space race strategy game originally by Interplay. | [GitHub](https://github.com/raceintospace/raceintospace) | - |
+| Seven Kingdoms: Ancient Adversaries | Classic RTS game liberated in 2009. | [GitHub](https://github.com/the3dfxdude/7kaa) | - |
+| Source of Tales | Entry in the Liberated Pixel Cup 2012. | [GitHub](https://github.com/tales/sourceoftales) | - |
+| Tanks of Freedom | Turn-based strategy game in isometric pixel-art style. | [GitHub](https://github.com/w84death/Tanks-of-Freedom) | - |
+| The Battle for Wesnoth | Turn-based strategy game with a high fantasy theme. | [GitHub](https://github.com/wesnoth/wesnoth) | - |
+| Unknown Horizons | 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine. | [GitHub](https://github.com/unknown-horizons/) | - |
+| Voxeliq | Block-based game engine implementation developed with C#. | [GitHub](https://github.com/raistlinthewiz/voxeliq) | - |
+| Wargus | Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine. | [GitHub](https://github.com/Wargus/wargus) | - |
+| Warzone 2100 | Postnuclear realtime strategy. | [GitHub](https://github.com/Warzone2100/warzone2100) | - |
+| Wyrmsun | Strategy game based on history, mythology and fiction. | [GitHub](https://github.com/andrettin/wyrmsun) | - |
+| Zero-K | Open source RTS game with physical projectiles and smart units | [GitHub](https://github.com/ZeroK-RTS/Zero-K) | - |
 
 ## Others
 
