@@ -98,6 +98,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Drill Bunny | Written in JavaScript and using the great Phaser library. | [GitHub](https://github.com/DreamShowAdventures/LudumDare29) | [Play](http://dreamshowadventures.github.io/LudumDare29/) |
 | DuckHunt JS | DuckHunt ported to JS and HTML5 with a level creator. | [GitHub](https://github.com/MattSurabian/DuckHunt-JS) | [Play](http://mattsurabian.com/duckhunt/) |
 | EKG Runner | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/Myztiq/ekgrunner) | - |
+| Elemental One | Built with the Phaser HTML5 game framework. | [GitHub](https://github.com/voithos/elemental-one) | [Play](http://skepsi.me/elemental-one/) |
 | Emberwind | HTML5 port of the indie platform game Emberwind. | [GitHub](https://github.com/operasoftware/Emberwind) | - |
 | ExecutiveMan | JavaScript MegaMen clone. | [GitHub](https://github.com/CamHenlin/ExecutiveMan) | - |
 | Flappy Bird | Flappy bird in html5. | [GitHub](https://github.com/hyspace/flappy) | - |
@@ -348,19 +349,21 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Platform
 
-* [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
-* [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-* [Elemental One](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework. [Play](http://skepsi.me/elemental-one/)
-* [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
-* [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
-* [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
-* [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
-* [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
-* [HFT Mario Party](https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
-* [Sky Engine](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
-* [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
-* [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
-* [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| Captain Holetooth | A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine. | [GitHub](https://github.com/hirnbix/captain-holetooth) | - |
+| Commander Genius | Commander Keen compatible clone. | [GitHub](https://github.com/gerstrong/Commander-Genius) | - |
+| Escape of the cat | Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead). | [GitHub](https://github.com/gl00my/catesc) | - |
+| Frogatto | Action-adventure game, starring a certain quixotic frog. | [GitHub](https://github.com/frogatto/frogatto) | - |
+| Gish | Award-winning physics platformer. | [GitHub](https://github.com/blinry/gish) | - |
+| Journey to the Center of Hawkthorne | Description | [GitHub](Link) | - |
+| Name | This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine. | [GitHub](https://github.com/hawkthorne/hawkthorne-journey) | - |
+| Mario-Level-1 | First level of Super Mario Bros made with Python and Pygame. | [GitHub](https://github.com/justinmeister/Mario-Level-1) | - |
+| HFT Mario Part | A remixed local multiplayer reimagining of the original Mario Bros. | [GitHub](ttps://github.com/amiruqdah/mario-party) | - |
+| Sky Engine | Custom engine 2D platform game made with OpenGL. | [GitHub](https://github.com/ilenburg/game-engine) | - |
+| The Legend of Edgar | 2D platform game with a persistent world. | [GitHub](https://github.com/riksweeney/edgar) | - |
+| The Secret Chronicles of Dr. M. | A 2D platform game in classic style. | [GitHub](https://github.com/Secretchronicles/TSC) | - |
+| SuperTux | Classic 2D jump'n'run sidescroller with Tux. | [GitHub](https://github.com/SuperTux/supertux) | - |
 
 ## Puzzle/card/board
 
