@@ -384,12 +384,16 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Racing
 
-* [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
-* [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| Stunt Rally | Rally game with Track Editor, based on VDrift and OGRE. | [GitHub](https://github.com/stuntrally/stuntrally) | - |
+| SuperTuxKart | Free 3D kart racing game featuring open source mascots. | [GitHub](https://github.com/supertuxkart/stk-code) | - |
 
 ## Programming
 
-* [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| CengBall | Soccer programming game with 2D simulation. | [GitHub](https://github.com/eckucukoglu/cengball) | - |
 
 ## Sandbox
 
@@ -445,7 +449,11 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Others
 
- * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| OpenNotrium | Open source version of Notrium, a top-down survival game. | [GitHub](https://github.com/verhoevenv/OpenNotrium) | - |
+
+-------
 
 # Mobile Games
 
