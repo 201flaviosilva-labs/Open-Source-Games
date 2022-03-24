@@ -397,18 +397,20 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Sandbox
 
-* [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
-* [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
-* [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
-* [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
-* [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
-* [Manic Digger](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
-* [Minetest](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
-* [Pycraft](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
-* [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
-* [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
-* [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
-* [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| Blackvoxel | Sandbox game based on a molecular voxel interaction engine. | [GitHub](https://github.com/Blackvoxel/Blackvoxel) | - |
+| Craft | Simple Minecraft clone written in C using modern OpenGL. | [GitHub](https://github.com/fogleman/Craft) | - |
+| Endless Sky | Space trading and combat game similar to the classic Escape Velocity series. | [GitHub](https://github.com/endless-sky/endless-sky) | - |
+| Freeminer | Sandbox game inspired by Minecraft. | [GitHub](https://github.com/freeminer/freeminer) | - |
+| Manic Digger | A multiplayer block-building voxel game, Minecraft clone. | [GitHub](https://github.com/manicdigger/manicdigger) | - |
+| Minecraft | Simple Minecraft-inspired demo written in Python and Pyglet. | [GitHub](https://github.com/fogleman/Minecraft) | - |
+| Minetest | Infinite-world block sandbox game with survival and crafting. | [GitHub](https://github.com/minetest/minetest) | - |
+| Pycraft | A Minecraft-inspired game for the terminal. | [GitHub](https://github.com/itsapi/pycraft) | - |
+| Rigs of Rods | Soft-Body physics simulator for vehicles and more. | [GitHub](https://github.com/RigsOfRods/rigs-of-rods) | - |
+| Space Engineers | Space Engineers is a voxel-based sandbox game set in an asteroid field in space. | [GitHub](https://github.com/KeenSoftwareHouse/SpaceEngineers) | - |
+| Terasology | Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility. | [GitHub](https://github.com/MovingBlocks/Terasology) | - |
+| The Powder Toy | Falling-sand physics sandbox game. | [GitHub](https://github.com/simtr/The-Powder-Toy) | - |
 
 ## Strategy
 
