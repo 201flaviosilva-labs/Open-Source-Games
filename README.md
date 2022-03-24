@@ -45,7 +45,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Sandbox](#sandbox-1)
   - [Strategy](#strategy-1)
   - [Others](#others-1)
-- [Mobile Games](#mobile-games)
+- [Mobile Games](#mobile)
   - [Android](#android)
   - [IOS](#ios)
 - [References](#references)
@@ -459,20 +459,22 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-# Mobile Games
+# Mobile
 
 ## Android
 
-* [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
-* [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
-* [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
-* [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
-* [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
-* [Green Wall](https://github.com/awlzac/greenwall) - Weirdly addictive arcade-style android game, where you fling fruit at a wall. Project developed using Android Studio 1.0.
-* [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
-* [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
-* [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
+| Name | Description | Source |
+| ---- | ----------- | ------ |
+| ChaseWhisplyProject | Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you. | [GitHub](https://github.com/tvbarthel/ChaseWhisplyProject) |
+| Colorphun | ColorPhun is a simple color based Android Game. | [GitHub](https://github.com/prakhar1989/colorphun) |
+| Game of Life | Conway's Game of Life with editable rules | [GitHub](https://github.com/zsoltk/GameOfLife) |
+| Gidi Games | Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android. | [GitHub](https://github.com/chuvidi2003/GidiGames) |
+| Green Mahjong | Solitaire mahjong game done in HTML/CSS/JS. | [GitHub](https://github.com/danbeck/green-mahjong) |
+| Green Wall | Weirdly addictive arcade-style android game, where you fling fruit at a wall. Project developed using Android Studio 1.0. | [GitHub](https://github.com/awlzac/greenwall) |
+| Memory Game | Simple and beautiful memory game for kids. | [GitHub](https://github.com/sromku/memory-game) |
+| Pixel Dungeon | Traditional roguelike game with pixel-art graphics and simple interface. | [GitHub](https://github.com/watabou/pixel-dungeon) |
+| PuzzleGame | Slider puzzle game implementation created with Cocos2d for Android. | [GitHub](https://github.com/chuvidi2003/PuzzleGame) |
+| Wannabe Tempest | Clone of 80's coin-op arcade game Tempest(80's arcade game). | [GitHub](https://github.com/awlzac/wbta) |
 
 ## IOS
 
