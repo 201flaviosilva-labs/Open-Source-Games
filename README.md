@@ -328,21 +328,23 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## RPG
 
-* [Angband](https://github.com/angband/angband) - Single-player dungeon exploration game in the universe of JRR Tolkien.
-* [Arx Fatalis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
-* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
-* [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
-* [Crystal Picnic](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
-* [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
-* [Dungeon Monkey Eternal](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
-* [Egoboo](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
-* [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
-* [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
-* [Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2) - Turn-based J-RPG in a fantasy universe.
-* [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
-* [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
-* [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine
-* [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| Angband | Single-player dungeon exploration game in the universe of JRR Tolkien. | [GitHub](https://github.com/angband/angband) | - |
+| Arx Fatalis | Cross-platform port of Arx Fatalis, a first-person role-playing game. | [GitHub](https://github.com/arx/ArxLibertatis) | - |
+| Cataclysm: Dark Days Ahead | Roguelike set in a post-apocalyptic world. | [GitHub](https://github.com/CleverRaven/Cataclysm-DDA) | - |
+| Cendric | Platformer-RPG in a fantasy setting with puzzle elements. | [GitHub](https://github.com/tizian/Cendric2) | - |
+| Crystal Picnic | Lighthearted and colourful tribute to the classic era of action RPGs. | [GitHub](https://github.com/Nooskewl/crystal-picnic) | - |
+| Dungeon Crawl Stone Soup | Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes. | [GitHub](https://github.com/crawl/crawl) | - |
+| Dungeon Monkey Eternal | Party-based fantasy roguelike role-playing game. | [GitHub](https://github.com/jwvhewitt/dmeternal) | - |
+| Egoboo | Cool 3D dungeon crawling game in the spirit of NetHack. | [GitHub](https://github.com/egoboo/egoboo) | - |
+| Flare RPG | Fantasy action RPG game with its own engine. | [GitHub](https://github.com/clintbellanger/flare-game) | - |
+| Freeablo | Open-source implementation of the Diablo I engine. | [GitHub](https://github.com/wheybags/freeablo) | - |
+| Monster RPG 2 | Turn-based J-RPG in a fantasy universe. | [GitHub](https://github.com/Nooskewl/monster-rpg-2) | - |
+| NetHack | Single-player roguelike dungeon exploration game and one of the most popular games in its genre. | [GitHub](https://github.com/NetHack/NetHack) | - |
+| OpenMW | Reimplementation of the Morrowind game engine. | [GitHub](https://github.com/OpenMW/openmw) | - |
+| The Legend of Zelda: Mystery of Solarus DX | Sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine | [GitHub](https://github.com/christopho/zsdx) | - |
+| Valyria Tear | Single-player medieval-fantasy 2D J-RPG. | [GitHub](https://github.com/Bertram25/ValyriaTear) | - |
 
 ## Platform
 
