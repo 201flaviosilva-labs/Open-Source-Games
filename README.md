@@ -356,8 +356,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Escape of the cat | Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead). | [GitHub](https://github.com/gl00my/catesc) | - |
 | Frogatto | Action-adventure game, starring a certain quixotic frog. | [GitHub](https://github.com/frogatto/frogatto) | - |
 | Gish | Award-winning physics platformer. | [GitHub](https://github.com/blinry/gish) | - |
-| Journey to the Center of Hawkthorne | Description | [GitHub](Link) | - |
-| Name | This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine. | [GitHub](https://github.com/hawkthorne/hawkthorne-journey) | - |
+| Journey to the Center of Hawkthorne | This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine. | [GitHub](https://github.com/hawkthorne/hawkthorne-journey) | - |
 | Mario-Level-1 | First level of Super Mario Bros made with Python and Pygame. | [GitHub](https://github.com/justinmeister/Mario-Level-1) | - |
 | HFT Mario Part | A remixed local multiplayer reimagining of the original Mario Bros. | [GitHub](ttps://github.com/amiruqdah/mario-party) | - |
 | Sky Engine | Custom engine 2D platform game made with OpenGL. | [GitHub](https://github.com/ilenburg/game-engine) | - |
@@ -478,20 +477,22 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## IOS
 
-* [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs) - Arcade game about a bug-craving bat.
-* [Bridges](https://github.com/zgrossbart/bridges) - Puzzle game with bridges, houses, tolls, and subways for iOS.
-* [Canabalt](https://github.com/ericjohnson/canabalt-ios) - Release of Canabalt for iOS.
-* [Choose Figure](https://github.com/ISosnovik/chooseFigure) - Simple logic game. Choose the right figure. Train your attention.
-* [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
-* [DrugsNRock](https://github.com/biou/DrugsNRock) - Simple multiplayer rhythm game designed during the 2013 Global Game Jam.
-* [FinalFighter](https://github.com/sebcode/FinalFighter-iphone) - Tank deathmatch battle game developed using Cocos2D.
-* [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
-* [Gorillas](https://github.com/Lyndir/Gorillas) - iPhone(or iPod touch) port of the popular old QBasic game.
-* [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
-* [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - iOS Auditorium-like game.
-* [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
-* [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
-* [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
+| Name | Description | Source |
+| ---- | ----------- | ------ |
+| Bat Loves Bugs | Arcade game about a bug-craving bat. | [GitHub](https://github.com/xyclos/BatLovesBugs) |
+| Bridges | Puzzle game with bridges, houses, tolls, and subways for iOS. | [GitHub](https://github.com/zgrossbart/bridges) |
+| Canabalt | Release of Canabalt for iOS. | [GitHub](https://github.com/ericjohnson/canabalt-ios) |
+| Choose Figure | Simple logic game. Choose the right figure. Train your attention. | [GitHub](https://github.com/ISosnovik/chooseFigure) |
+| Doom | Doom Classic for iOS. | [GitHub](https://github.com/id-Software/DOOM-iOS) |
+| DrugsNRock | Simple multiplayer rhythm game designed during the 2013 Global Game Jam. | [GitHub](https://github.com/biou/DrugsNRock) |
+| FinalFighter | Tank deathmatch battle game developed using Cocos2D. | [GitHub](https://github.com/sebcode/FinalFighter-iphone) |
+| Frogatto | Action-adventure game, starring a certain quixotic frog. | [GitHub](https://github.com/frogatto/frogatto) |
+| Gorillas | iPhone(or iPod touch) port of the popular old QBasic game. | [GitHub](https://github.com/Lyndir/Gorillas) |
+| Green Mahjong | Solitaire mahjong game done in HTML/CSS/JS. | [GitHub](https://github.com/danbeck/green-mahjong) |
+| Light Jockey | iOS Auditorium-like game. | [GitHub](https://github.com/jmfieldman/Light-Jockey) |
+| Lumio | Puzzle game for iOS developed using Cocos2D. Available free on the App Store. | [GitHub](https://github.com/joannecdyer/lumio) |
+| Sakura Fly |  iOS action game developed using SpriteKit. Available free on the App Store. | [GitHub](https://github.com/l800891/Sakura-Fly)) |
+| Wolfenstein 3D | Wolfenstein 3D for iOS Source Release. | [GitHub](https://github.com/id-Software/Wolf3D-iOS) |
 
 # References
 
