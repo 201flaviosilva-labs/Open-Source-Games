@@ -367,18 +367,20 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Puzzle/card/board
 
-* [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
-* [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
-* [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
-* [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
-* [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
-* [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
-* [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
-* [nudoku](https://github.com/jubalh/nudoku) - ncurses based CLI sudoku game
-* [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
-* [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
-* [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
-* [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play](http://www.pokerth.net/)
+| Name | Description | Source | Play (Browser Version) |
+| ---- | ----------- | ------ | ---------------------- |
+| 2048-cli | CLI version of the game 2048 for your Linux terminal. | [GitHub](https://github.com/Tiehuis/2048-cli) | - |
+| 2048-in-terminal | CLI version of the game 2048 made right. | [GitHub](https://github.com/alewmoose/2048-in-terminal) | - |
+| Castles of Dr. Creep | The Castles of Dr. Creep | [GitHub](https://github.com/segrax/DrCreep) | - |
+| Dominion | C# implementation of Dominion, a board/card game. | [GitHub](https://github.com/paulbatum/Dominion) | - |
+| EbbeFlut | Really nice board game implemented in a bad way a VERY long time ago. | [GitHub](https://github.com/karussell/ebbeflut) | - |
+| IRMINGARD | Patience card game written in Ruby. | [GitHub](https://github.com/gamebytes/irmingard-backbone) | - |
+| Minilens | Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth. | [GitHub](https://github.com/KOBUGE-Games/minilens) | - |
+| nudoku | Ncurses based CLI sudoku game | [GitHub](https://github.com/jubalh/nudoku) | - |
+| PuzzleDash | Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash). | [GitHub](https://github.com/zeDoctor/PuzzleDash) | - |
+| tictactoe | Graphical tic-tac-toe AI which never loses | [GitHub](https://github.com/cout-hello-world/tictactoe) | - |
+| Wizznic | Most awesome puzzle game. | [GitHub](https://github.com/DusteDdk/Wizznic) | - |
+| PokerTH | Implementation of Texas Hold'em supporting (online) multiplayer and botplay. | [GitHub](https://github.com/pokerth/pokerth) | [Play](http://www.pokerth.net/) |
 
 ## Racing
 
