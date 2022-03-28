@@ -125,6 +125,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Mode | Small(but sadly not that simple) demo game built on the Flixel framework. | [GitHub](https://github.com/AdamAtomic/Mode) | [Play](http://www.adamatomic.com/mode/) |
 | Monster Wants Candy | Simple HTML5 game created with Phaser 2.0.7. | [GitHub](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) | [Play](http://candy-demo.enclavegames.com/) |
 | Newton Adventure | Play Newton, a very special hero who has the power to change gravity direction! | [GitHub](https://github.com/devnewton/newton_adventure) | [Play](http://play.bci.im/newton_adventure/) |
+| Ninja Multiplayer Platformer | A real time multiplayer game using PubNub & Phaser's HTML5 game engine | [GitHub](https://github.com/PubNubDevelopers/Ninja-Multiplayer-Platformer) | [Play](https://pubnubdevelopers.github.io/Ninja-Multiplayer-Platformer/) |
 | Octocat Jump | GitHub Game Off 2012 Entry. | [GitHub](https://github.com/ogoshen/game-off-2012) | [Play](http://ogoshen.github.io/game-off-2012/) |
 | Onslaught Arena | Fight off hordes of classic medieval monsters in this fast paced arcade shooter! | [GitHub](https://github.com/lostdecade/onslaught_arena) | [Play](http://arcade.lostdecadegames.com/onslaught_arena/) |
 | Pappu Pakia | Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. | [GitHub](https://github.com/mindd-it/pappu-pakia) | [Play](http://khele.in/pappu-pakia/) |
