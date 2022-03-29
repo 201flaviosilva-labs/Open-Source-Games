@@ -377,8 +377,8 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Frogatto | Action-adventure game, starring a certain quixotic frog. | [GitHub](https://github.com/frogatto/frogatto) | - |
 | Gish | Award-winning physics platformer. | [GitHub](https://github.com/blinry/gish) | - |
 | Journey to the Center of Hawkthorne | This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine. | [GitHub](https://github.com/hawkthorne/hawkthorne-journey) | - |
-| Mario-Level-1 | First level of Super Mario Bros made with Python and Pygame. | [GitHub](https://github.com/justinmeister/Mario-Level-1) | - |
-| HFT Mario Part | A remixed local multiplayer reimagining of the original Mario Bros. | [GitHub](ttps://github.com/amiruqdah/mario-party) | - |
+| Mario Level 1 | First level of Super Mario Bros made with Python and Pygame. | [GitHub](https://github.com/justinmeister/Mario-Level-1) | - |
+| HFT Mario Part | A remixed local multiplayer reimagining of the original Mario Bros. | [GitHub](https://github.com/amiruqdah/mario-party) | - |
 | Sky Engine | Custom engine 2D platform game made with OpenGL. | [GitHub](https://github.com/ilenburg/game-engine) | - |
 | The Legend of Edgar | 2D platform game with a persistent world. | [GitHub](https://github.com/riksweeney/edgar) | - |
 | The Secret Chronicles of Dr. M. | A 2D platform game in classic style. | [GitHub](https://github.com/Secretchronicles/TSC) | - |
