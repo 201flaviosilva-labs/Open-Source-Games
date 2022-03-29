@@ -296,6 +296,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 | Name | Description | Source | Play (Browser Version) |
 | ---- | ----------- | ------ | ---------------------- |
+| brownboxbatman | A bullet hell video game. | [GitTea](https://code.rocketnine.space/tslocum/brownboxbatman) | [Play](https://rocketnine.itch.io/brownboxbatman) |
 | hēXōn | A twin-stick-shooter with 3D graphics and a classic feel. | [GitHub](https://github.com/LucKeyProductions/heXon) |  - |
 | C-Dogs SDL | Overhead shoot-em-up port of the classic DOS game. | [GitHub](https://github.com/cxong/cdogs-sdl) |  - |
 | Chaos Projectile | 2D run'n'gun action game with RPG elements. | [GitHub](https://github.com/WinterLicht/Chaos-Projectile) |  - |
@@ -304,8 +305,11 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Duckmarines | A ChuChu Rocket remake for PC. | [GitHub](https://github.com/SimonLarsen/duckmarines) |  - |
 | Epic Inventor | Indie, side-scrolling, action, RPG. | [GitHub](https://github.com/BlkStormy/epic-inventor) |  - |
 | Falling Time | Arcade game inspired by Fall Down. | [GitHub](https://github.com/cxong/FallingTime) |  - |
+| Feta Feles Remastered | An eerie bullet hell shooter, featuring a small story based around your "pet cat". | [GitHub](https://github.com/TheTophatDemon/Feta-Feles-Remastered) | [Play](https://x54321.itch.io/feta-feles-rebirth) |
+| godanmaku | A simple shooting game using ebiten and golang | [GitHub](https://github.com/yohamta/godanmaku) | [Play](https://godanmaku.web.app/) |
 | Kroniax | Sidescrolling skill-based game. | [GitHub](https://github.com/AlexAUT/Kroniax) |  - |
 | Missile Command | Missile Command clone in Lua with LÖVE. | [GitHub](https://github.com/chadpaulson/missile-command) |  - |
+| Monovania | Metroidvania game. | [GitTea](https://code.rocketnine.space/tslocum/monovania) | [Play](https://rocketnine.itch.io/monovania) |
 | Mystic Mine | Single and multiplayer action game with mining carts. | [GitHub](https://github.com/koonsolo/MysticMine) |  - |
 | OpenLieroX | Liero clone, like realtime Worms, or a 2D Quake. | [GitHub](https://github.com/albertz/openlierox) |  - |
 | OSGG | Oldskool Gravity Game, very difficult lander game in glorious vector graphics. | [GitHub](https://github.com/DusteDdk/Osgg) |  - |
@@ -358,6 +362,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Freeablo | Open-source implementation of the Diablo I engine. | [GitHub](https://github.com/wheybags/freeablo) | - |
 | Monster RPG 2 | Turn-based J-RPG in a fantasy universe. | [GitHub](https://github.com/Nooskewl/monster-rpg-2) | - |
 | NetHack | Single-player roguelike dungeon exploration game and one of the most popular games in its genre. | [GitHub](https://github.com/NetHack/NetHack) | - |
+| OpenDiablo2 | An open source re-implementation of Diablo 2 | [GitHub](https://github.com/OpenDiablo2/OpenDiablo2) |  - |
 | OpenMW | Reimplementation of the Morrowind game engine. | [GitHub](https://github.com/OpenMW/openmw) | - |
 | The Legend of Zelda: Mystery of Solarus DX | Sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine | [GitHub](https://github.com/christopho/zsdx) | - |
 | Valyria Tear | Single-player medieval-fantasy 2D J-RPG. | [GitHub](https://github.com/Bertram25/ValyriaTear) | - |
@@ -385,9 +390,12 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | ---- | ----------- | ------ | ---------------------- |
 | 2048-cli | CLI version of the game 2048 for your Linux terminal. | [GitHub](https://github.com/Tiehuis/2048-cli) | - |
 | 2048-in-terminal | CLI version of the game 2048 made right. | [GitHub](https://github.com/alewmoose/2048-in-terminal) | - |
+| aaaaxy | A nonlinear 2D puzzle platformer taking place in impossible spaces. | [GitHub](https://github.com/divVerent/aaaaxy) | - |
 | Castles of Dr. Creep | The Castles of Dr. Creep | [GitHub](https://github.com/segrax/DrCreep) | - |
+| City Limits | A city-building simulation video game. | [GitTea](https://code.rocketnine.space/tslocum/citylimits) | [Play](https://rocketnine.itch.io/citylimits) |
 | Dominion | C# implementation of Dominion, a board/card game. | [GitHub](https://github.com/paulbatum/Dominion) | - |
 | EbbeFlut | Really nice board game implemented in a bad way a VERY long time ago. | [GitHub](https://github.com/karussell/ebbeflut) | - |
+| gosol | Polymorphic solitaire engine in Go+Ebiten. | [GitHub](https://github.com/oddstream/gosol) | [Play](https://oddstream.games/gosol/gosol.html) |
 | IRMINGARD | Patience card game written in Ruby. | [GitHub](https://github.com/gamebytes/irmingard-backbone) | - |
 | Minilens | Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth. | [GitHub](https://github.com/KOBUGE-Games/minilens) | - |
 | nudoku | Ncurses based CLI sudoku game | [GitHub](https://github.com/jubalh/nudoku) | - |
@@ -478,8 +486,8 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Android
 
-| Name | Description | Source |
-| ---- | ----------- | ------ |
+| Name | Description | Source | Store |
+| ---- | ----------- | ------ | ----- |
 | ChaseWhisplyProject | Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you. | [GitHub](https://github.com/tvbarthel/ChaseWhisplyProject) |
 | Colorphun | ColorPhun is a simple color based Android Game. | [GitHub](https://github.com/prakhar1989/colorphun) |
 | Game of Life | Conway's Game of Life with editable rules | [GitHub](https://github.com/zsoltk/GameOfLife) |
@@ -489,12 +497,13 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Memory Game | Simple and beautiful memory game for kids. | [GitHub](https://github.com/sromku/memory-game) |
 | Pixel Dungeon | Traditional roguelike game with pixel-art graphics and simple interface. | [GitHub](https://github.com/watabou/pixel-dungeon) |
 | PuzzleGame | Slider puzzle game implementation created with Cocos2d for Android. | [GitHub](https://github.com/chuvidi2003/PuzzleGame) |
+| Skulls | A simple Columns-like strategy game developed in Golang with the Ebiten library (for Android). | [GitHub](https://github.com/rootVIII/skulls) | [Store](https://play.google.com/store/apps/details?id=com.solsticenet.skullsmobile) |
 | Wannabe Tempest | Clone of 80's coin-op arcade game Tempest(80's arcade game). | [GitHub](https://github.com/awlzac/wbta) |
 
 ## IOS
 
-| Name | Description | Source |
-| ---- | ----------- | ------ |
+| Name | Description | Source | Store |
+| ---- | ----------- | ------ | ----- |
 | Bat Loves Bugs | Arcade game about a bug-craving bat. | [GitHub](https://github.com/xyclos/BatLovesBugs) |
 | Bridges | Puzzle game with bridges, houses, tolls, and subways for iOS. | [GitHub](https://github.com/zgrossbart/bridges) |
 | Canabalt | Release of Canabalt for iOS. | [GitHub](https://github.com/ericjohnson/canabalt-ios) |
