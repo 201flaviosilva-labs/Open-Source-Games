@@ -296,30 +296,38 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 | Name | Description | Source | Play (Browser Version) |
 | ---- | ----------- | ------ | ---------------------- |
+| Arkanoid Go | Arkanoid game in Go using Ebiten game engine with ECS. | [GitHub](https://github.com/x-hgg-x/arkanoid-go) | - |
 | brownboxbatman | A bullet hell video game. | [GitTea](https://code.rocketnine.space/tslocum/brownboxbatman) | [Play](https://rocketnine.itch.io/brownboxbatman) |
-| hēXōn | A twin-stick-shooter with 3D graphics and a classic feel. | [GitHub](https://github.com/LucKeyProductions/heXon) |  - |
-| C-Dogs SDL | Overhead shoot-em-up port of the classic DOS game. | [GitHub](https://github.com/cxong/cdogs-sdl) |  - |
-| Chaos Projectile | 2D run'n'gun action game with RPG elements. | [GitHub](https://github.com/WinterLicht/Chaos-Projectile) |  - |
-| Clonepoint | Libre clone of Gunpoint, a game in which you hack and punch your way to victory. | [GitHub](https://github.com/rohit-n/Clonepoint) |  - |
-| DynaDungeons | Bomberman clone using the awesome open source Godot game engine. | [GitHub](https://github.com/akien-mga/dynadungeons) |  - |
-| Duckmarines | A ChuChu Rocket remake for PC. | [GitHub](https://github.com/SimonLarsen/duckmarines) |  - |
-| Epic Inventor | Indie, side-scrolling, action, RPG. | [GitHub](https://github.com/BlkStormy/epic-inventor) |  - |
-| Falling Time | Arcade game inspired by Fall Down. | [GitHub](https://github.com/cxong/FallingTime) |  - |
+| hēXōn | A twin-stick-shooter with 3D graphics and a classic feel. | [GitHub](https://github.com/LucKeyProductions/heXon) | - |
+| C-Dogs SDL | Overhead shoot-em-up port of the classic DOS game. | [GitHub](https://github.com/cxong/cdogs-sdl) | - |
+| Carotid Artillery | A top-down twin-stick shooter. | [GitTea](https://code.rocketnine.space/tslocum/carotidartillery) | [Play](https://rocketnine.itch.io/carotid-artillery) |
+| Chaos Projectile | 2D run'n'gun action game with RPG elements. | [GitHub](https://github.com/WinterLicht/Chaos-Projectile) | - |
+| Clonepoint | Libre clone of Gunpoint, a game in which you hack and punch your way to victory. | [GitHub](https://github.com/rohit-n/Clonepoint) | - |
+| Cr1ckt | Tap left and right to jump through the caves to the fruit ...as long as the game. | [GitHub](https://github.com/sinisterstuf/cr1ckt) | [Play](sinisterstuf.itch.io/cr1ckt) |
+| DynaDungeons | Bomberman clone using the awesome open source Godot game engine. | [GitHub](https://github.com/akien-mga/dynadungeons) | - |
+| Duckmarines | A ChuChu Rocket remake for PC. | [GitHub](https://github.com/SimonLarsen/duckmarines) | - |
+| Ebiten Breakout | A simple breakout game made in Ebiten | [GitHub](https://github.com/eliasdaler/ebiten_breakout) | [Play](https://eliasdaler.itch.io/ebiten-breakout) |
+| Epic Inventor | Indie, side-scrolling, action, RPG. | [GitHub](https://github.com/BlkStormy/epic-inventor) | - |
+| Falling Time | Arcade game inspired by Fall Down. | [GitHub](https://github.com/cxong/FallingTime) | - |
 | Feta Feles Remastered | An eerie bullet hell shooter, featuring a small story based around your "pet cat". | [GitHub](https://github.com/TheTophatDemon/Feta-Feles-Remastered) | [Play](https://x54321.itch.io/feta-feles-rebirth) |
+| Game Off 2021 | This is a runner game made in Go with Ebiten engine. | [GitHub](https://github.com/Zyko0/GameOff2021) | [Play](https://zyk0.itch.io/gameoff2021) |
+| Go Space Crane | Simple moonlander like game with some new mechanics | [GitHub](https://github.com/spiritofsim/go-space-crane) | - |
 | godanmaku | A simple shooting game using ebiten and golang | [GitHub](https://github.com/yohamta/godanmaku) | [Play](https://godanmaku.web.app/) |
-| Kroniax | Sidescrolling skill-based game. | [GitHub](https://github.com/AlexAUT/Kroniax) |  - |
-| Missile Command | Missile Command clone in Lua with LÖVE. | [GitHub](https://github.com/chadpaulson/missile-command) |  - |
+| Kroniax | Sidescrolling skill-based game. | [GitHub](https://github.com/AlexAUT/Kroniax) | - |
+| Kuronan Dash | Doujin game "Kuronan Dash" from the comic "Nekomusume Doujinshi". | [GitHub](https://github.com/kemokemo/kuronan-dash) | [Play](https://kemokemo.github.io/kuronan-dash/) |
+| Missile Command | Missile Command clone in Lua with LÖVE. | [GitHub](https://github.com/chadpaulson/missile-command) | - |
 | Monovania | Metroidvania game. | [GitTea](https://code.rocketnine.space/tslocum/monovania) | [Play](https://rocketnine.itch.io/monovania) |
-| Mystic Mine | Single and multiplayer action game with mining carts. | [GitHub](https://github.com/koonsolo/MysticMine) |  - |
-| OpenLieroX | Liero clone, like realtime Worms, or a 2D Quake. | [GitHub](https://github.com/albertz/openlierox) |  - |
-| OSGG | Oldskool Gravity Game, very difficult lander game in glorious vector graphics. | [GitHub](https://github.com/DusteDdk/Osgg) |  - |
-| Savage Wheels | 2D car crashing game similar to the old classic Destruction Derby. | [GitHub](https://github.com/petarov/savagewheels) |  - |
-| Space Shooter | Cross platform, 2D space shooting game made using pygame. | [GitHub](https://github.com/prodicus/spaceShooter) |  - |
-| SDL-Ball | Pretty looking breakout clone available in most distributions. | [GitHub](https://github.com/DusteDdk/SDL-Ball) |  - |
-| Taisei | Fan-made, open Source clone of the Touhou series. | [GitHub](https://github.com/laochailan/taisei) |  - |
-| Teeworlds | Online multi-player platform 2D shooter. | [GitHub](https://github.com/teeworlds/teeworlds/) |  - |
-| Wannabe Tempest | Tempest(80's arcade game) clone in Java, and a small project for playing with git. | [GitHub](https://github.com/awlzac/wbt) |  - |
-| Witch Blast | Roguelite dungeon crawl shooter similar to The Binding of Isaac. | [GitHub](https://github.com/Cirrus-Minor/witchblast) |  - |
+| Mystic Mine | Single and multiplayer action game with mining carts. | [GitHub](https://github.com/koonsolo/MysticMine) | - |
+| OpenLieroX | Liero clone, like realtime Worms, or a 2D Quake. | [GitHub](https://github.com/albertz/openlierox) | - |
+| OSGG | Oldskool Gravity Game, very difficult lander game in glorious vector graphics. | [GitHub](https://github.com/DusteDdk/Osgg) | - |
+| Savage Wheels | 2D car crashing game similar to the old classic Destruction Derby. | [GitHub](https://github.com/petarov/savagewheels) | - |
+| Space Invaders Go | Space invaders game in Go using Ebiten game engine with ECS. | [Github](https://github.com/x-hgg-x/space-invaders-go) | - |
+| Space Shooter | Cross platform, 2D space shooting game made using pygame. | [GitHub](https://github.com/prodicus/spaceShooter) | - |
+| SDL-Ball | Pretty looking breakout clone available in most distributions. | [GitHub](https://github.com/DusteDdk/SDL-Ball) | - |
+| Taisei | Fan-made, open Source clone of the Touhou series. | [GitHub](https://github.com/laochailan/taisei) | - |
+| Teeworlds | Online multi-player platform 2D shooter. | [GitHub](https://github.com/teeworlds/teeworlds/) | - |
+| Wannabe Tempest | Tempest(80's arcade game) clone in Java, and a small project for playing with git. | [GitHub](https://github.com/awlzac/wbt) | - |
+| Witch Blast | Roguelite dungeon crawl shooter similar to The Binding of Isaac. | [GitHub](https://github.com/Cirrus-Minor/witchblast) | - |
 
 ## FPS
 
@@ -376,6 +384,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Escape of the cat | Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead). | [GitHub](https://github.com/gl00my/catesc) | - |
 | Frogatto | Action-adventure game, starring a certain quixotic frog. | [GitHub](https://github.com/frogatto/frogatto) | - |
 | Gish | Award-winning physics platformer. | [GitHub](https://github.com/blinry/gish) | - |
+| Go Inovation | Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures! | [GitHub](https://github.com/hajimehoshi/go-inovation) | [Play](http://hajimehoshi.github.io/go-inovation/) |
 | Journey to the Center of Hawkthorne | This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine. | [GitHub](https://github.com/hawkthorne/hawkthorne-journey) | - |
 | Mario Level 1 | First level of Super Mario Bros made with Python and Pygame. | [GitHub](https://github.com/justinmeister/Mario-Level-1) | - |
 | HFT Mario Part | A remixed local multiplayer reimagining of the original Mario Bros. | [GitHub](https://github.com/amiruqdah/mario-party) | - |
@@ -398,9 +407,11 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | gosol | Polymorphic solitaire engine in Go+Ebiten. | [GitHub](https://github.com/oddstream/gosol) | [Play](https://oddstream.games/gosol/gosol.html) |
 | IRMINGARD | Patience card game written in Ruby. | [GitHub](https://github.com/gamebytes/irmingard-backbone) | - |
 | Minilens | Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth. | [GitHub](https://github.com/KOBUGE-Games/minilens) | - |
+| Minesweeper.go | Minesweeper game in Go that can compile to WASM (uses ebiten v2) | [GitHub](https://github.com/mevdschee/minesweeper.go) | - |
 | nudoku | Ncurses based CLI sudoku game | [GitHub](https://github.com/jubalh/nudoku) | - |
 | PuzzleDash | Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash). | [GitHub](https://github.com/zeDoctor/PuzzleDash) | - |
-| tictactoe | Graphical tic-tac-toe AI which never loses | [GitHub](https://github.com/cout-hello-world/tictactoe) | - |
+| Sokoban Go | Sokoban game in Go using Ebiten game engine with ECS. | [GitHub](https://github.com/x-hgg-x/sokoban-go) | - |
+| Tic Tac Toe | Graphical tic-tac-toe AI which never loses | [GitHub](https://github.com/cout-hello-world/tictactoe) | - |
 | Wizznic | Most awesome puzzle game. | [GitHub](https://github.com/DusteDdk/Wizznic) | - |
 | PokerTH | Implementation of Texas Hold'em supporting (online) multiplayer and botplay. | [GitHub](https://github.com/pokerth/pokerth) | [Play](http://www.pokerth.net/) |
 
