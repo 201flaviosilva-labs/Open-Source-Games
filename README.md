@@ -541,6 +541,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Awesome | 😎 Awesome lists about all kinds of interesting topics | [Link](https://github.com/sindresorhus/awesome) |
 | Itch.io - Open Source | A Itch.io filter games with the tag open source | [Link](https://itch.io/games/tag-open-source) |
 | Gamearians | A GitHub Organization with many open-source games lists | [Link](https://github.com/gamearians) |
+| Open source games list (OSGL) | Technical infos of open source games. | [Link](https://trilarion.github.io/opensourcegames/) |
 
 # License
 
