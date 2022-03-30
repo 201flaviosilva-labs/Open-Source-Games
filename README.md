@@ -437,6 +437,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Craft | Simple Minecraft clone written in C using modern OpenGL. | [GitHub](https://github.com/fogleman/Craft) | - |
 | Endless Sky | Space trading and combat game similar to the classic Escape Velocity series. | [GitHub](https://github.com/endless-sky/endless-sky) | - |
 | Freeminer | Sandbox game inspired by Minecraft. | [GitHub](https://github.com/freeminer/freeminer) | - |
+| FreeSO | FreeSO is a reimplementation of The Sims Online™’s game engine, using C# and Monogame. | [GitHub](https://github.com/riperiperi/FreeSO) | - |
 | Manic Digger | A multiplayer block-building voxel game, Minecraft clone. | [GitHub](https://github.com/manicdigger/manicdigger) | - |
 | Minecraft | Simple Minecraft-inspired demo written in Python and Pyglet. | [GitHub](https://github.com/fogleman/Minecraft) | - |
 | Minetest | Infinite-world block sandbox game with survival and crafting. | [GitHub](https://github.com/minetest/minetest) | - |
