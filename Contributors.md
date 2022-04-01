@@ -9,5 +9,5 @@ In addition to those who contributed to this fork, there are also the various pe
 
 | Name | GitHub User Name | Web Page |
 | ---- | ---------------- | -------- |
-| Dennis Felsing | @def- | [WebSite](http://felsin9.de/nnis/) |
-| Flávio Silva | @201flaviosilva | [WebSite](https://201flaviosilva.github.io/) |
+| Dennis Felsing | [@def-](https://github.com/def-) | [WebSite](http://felsin9.de/nnis/) |
+| Flávio Silva | [@201flaviosilva](https://github.com/201flaviosilva) | [WebSite](https://201flaviosilva.github.io/) |
