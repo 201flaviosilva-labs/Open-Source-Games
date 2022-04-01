@@ -14,6 +14,8 @@ Any game is accepted as long as it is open source. No matter what platform the c
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-Source-Games/blob/master/Contributors.md)
+
 -------
 
 # Table of Contents
