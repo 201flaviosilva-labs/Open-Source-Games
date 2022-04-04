@@ -20,7 +20,6 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Browser-Based](#browser-based)
   - [Boardgame](#boardgame)
   - [Arcade](#arcade)
@@ -51,6 +50,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
   - [Android](#android)
   - [IOS](#ios)
 - [References](#references)
+- [Legend](#legend)
 - [License](#license)
 
 -------
@@ -63,9 +63,9 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | ---- | ----------- | ------ | ---- |
 | 3D Hartwing Chess Set | 3D chess game done in HTML/CSS/JS. | [GitHub](https://github.com/juliangarnier/3D-Hartwig-chess-set) | [Play](http://codepen.io/juliangarnier/full/BsIih) |
 | c4 | Connect Four game, with AI, in HTML/CSS/JS. | [GitHub](https://github.com/kenrick95/c4) | [Play](https://kenrick95.github.io/c4/demo/) |
-| Desperate Gods        | Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. | [GitHub](https://github.com/David20321/FTJ) | [Play](http://www.wolfire.com/desperate-gods) |
+| Desperate Gods        | Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. | [GitHub](https://github.com/David20321/FTJ) | - |
 | Green Mahjong | Solitaire mahjong game done in HTML/CSS/JS. | [GitHub](https://github.com/danbeck/green-mahjong) | [Play](http://greenmahjong.daniel-beck.org/) |
-| Kriegspiel | The game of imperfect information, the Kriegspiel chess variant. | [GitHub](https://github.com/binarymax/kriegspiel) | [Play](http://krgspl.com/) |
+| Kriegspiel | The game of imperfect information, the Kriegspiel chess variant. | [GitHub](https://github.com/binarymax/kriegspiel) | [!Play](http://krgspl.com/) |
 | Lichess | Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. | [GitHub](https://github.com/ornicar/lila) | [Play](http://lichess.org/) |
 
 ## Arcade
@@ -74,7 +74,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | ---- | ----------- | ------ | ---- |
 | Alge's Escapade | HTML5, JavaScript, GameJs arcade game where you control an Algae. | [GitHub](https://github.com/Dave-and-Mike/game-off-2012) | [Play](http://dave-and-mike.github.io/game-off-2012/) |
 | Alien Invasion | Demo Game for Mobile HTML5 Game Development. | [GitHub](https://github.com/cykod/AlienInvasion) | [Play](http://cykod.github.io/AlienInvasion/) |
-| Arashi | Arashi is a clone of the Arcade game Tempest. | [GitHub](https://github.com/stephank/arashi-js) | [Play](http://stephank.github.io/arashi-js/) |
+| Arashi | Arashi is a clone of the Arcade game Tempest. | [GitHub](https://github.com/stephank/arashi-js) | [!Play](http://stephank.github.io/arashi-js/) |
 | Asteroids | Pure JavaScript asteroids. | [GitHub](http://github.com/dmcinnes/HTML5-Asteroids) | [Play](http://dougmcinnes.com/html-5-asteroids/) |
 | Avabranch | GitHub Game Off 2012 entry. | [GitHub](https://github.com/Zolmeister/avabranch) | [Play](http://avabranch.zolmeister.com/) |
 | Ball And Wall | Pure JavaScript arkanoid style game. | [GitHub](https://github.com/budnix/ball-and-wall) | [Play](http://ballandwall.com/) |
@@ -545,6 +545,17 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Itch.io - Open Source | A Itch.io filter games with the tag open source | [Link](https://itch.io/games/tag-open-source) |
 | Gamearians | A GitHub Organization with many open-source games lists | [Link](https://github.com/gamearians) |
 | Open source games list (OSGL) | Technical infos of open source games. | [Link](https://trilarion.github.io/opensourcegames/) |
+
+-------
+
+# Legend
+
+| Symbol | Description |
+| ------ | ----------- |
+| - | No link found |
+| ! | Broken link/game |
+
+-------
 
 # License
 
