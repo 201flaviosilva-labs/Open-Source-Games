@@ -79,6 +79,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Avabranch | GitHub Game Off 2012 entry. | [GitHub](https://github.com/Zolmeister/avabranch) | [Play](http://avabranch.zolmeister.com/) |
 | Ball And Wall | Pure JavaScript arkanoid style game. | [GitHub](https://github.com/budnix/ball-and-wall) | [Play](http://ballandwall.com/) |
 | Breakout | Breakout multiplayer with HTML5. | [GitHub](https://github.com/Couchfriends/breakout) | - |
+| Breakouts | A compilation of the breakout game written in multiple JavaScript frameworks | [GitHub](https://github.com/city41/breakouts) | [Play]( https://jsbreakouts.org/) |
 | Captain Rogers | Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. | [GitHub](https://github.com/EnclaveGames/Captain-Rogers) | [Play](http://enclavegames.com/games/captain-rogers/) |
 | Carnival Game | A point and shoot game made with just HTML and CSS (no Javascript) | [CodePen](https://codepen.io/una/pen/NxZaNr) | [Play](https://codepen.io/una/full/NxZaNr) |
 | Cell Mates | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/gamebytes/cellmates) | - |
