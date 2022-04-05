@@ -84,26 +84,23 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Carnival Game | A point and shoot game made with just HTML and CSS (no Javascript) | [CodePen](https://codepen.io/una/pen/NxZaNr) | [Play](https://codepen.io/una/full/NxZaNr) |
 | Cell Mates | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/gamebytes/cellmates) | - |
 | Ceros Snake | A remake of the iconic 70's Snake game. | [GitHub](https://github.com/mjhasbach/ceros-snake) | -|
-| CHANG€ | Intense game about the extreme life of supermarket cashiers. | [GitHub](https://github.com/RothschildGames/change) | [Play](http://change-game.herokuapp.com/) |
-| Chromacore | 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay. | [GitHub](https://github.com/Murkantilism/game-off-2013) | [Play](https://incendiaryindustries.itch.io/chromacore) |
+| CHANG€ | Intense game about the extreme life of supermarket cashiers. | [GitHub](https://github.com/RothschildGames/change) | [!Play](http://change-game.herokuapp.com/) |
 | Circus Charlie | HTML5 tribute created in Phaser. | [GitHub](https://github.com/eugenioclrc/circushtml5) | [Play](http://gamegur-us.github.io/circushtml5/) |
 | COLORON GAME | A game made to inspire developers to use GSAP, ES6 and Flexbox | [CodePen](https://codepen.io/gregh/pen/yVLOyO) | [Play](https://codepen.io/gregh/full/yVLOyO) |
-| Jolly Jumper | Made in Phaser. | [GitHub](https://github.com/shohan4556/jolly-jumper) | [Play](http://shohan4556.github.io/jolly-jumper/) |
-| Clumsy Bird | Flappy Bird clone in JavaScript using MelonJS. | [GitHub](https://github.com/ellisonleao/clumsy-bird) | [Play](http://www.varunpant.com/static/resources/CrappyBird/index.html) |
-| Codename Lumberjack | Simple flash game written using Actionscript 3.0 and Flixel. | [GitHub](https://github.com/arkeus/Codename-Lumberjack) | [Play](http://projects.iarke.us/codenamelumberjack/) |
+| Clumsy Bird | Flappy Bird clone in JavaScript using MelonJS. | [GitHub](https://github.com/ellisonleao/clumsy-bird) | [Play](http://ellisonleao.github.io/clumsy-bird/) |
+| Codename Lumberjack | Simple flash game written using Actionscript 3.0 and Flixel. | [GitHub](https://github.com/arkeus/Codename-Lumberjack) | - |
 | Coffee Snake | HTML5 snake game written in CoffeeScript. | [GitHub](https://github.com/arkeus/Coffee-Snake) | [Play](http://dommmel.github.io/coffee-snake/) |
 | Coil | HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. | [GitHub](https://github.com/leereilly/Coil) | [Play](http://hakim.se/experiments/html5/coil/) |
-| Color Quest | Infinite runner following a black and white pixel's quest to change into a color pixel. | [GitHub](https://github.com/redbluegames/game-off-2013) | [Play](http://redbluegames.com/game-off-2013/) |
-| Core Commiter | GitHub Game Off 2012 entry. | [GitHub](https://github.com/vladikoff/game-off-2012) | [Play](http://committer.meteor.com/) |
+| Core Commiter | GitHub Game Off 2012 entry. | [GitHub](https://github.com/vladikoff/game-off-2012) | - |
 | Crappy Bird | Flappy Bird clone in JavaScript and Canvas2D API. | [GitHub](https://github.com/varunpant/CrappyBird) | - |
 | Custom Tetris | Play the classic Tetris game the way you like it. | [GitHub](https://github.com/ondras/custom-tetris) | [Play](http://ondras.github.io/custom-tetris/) |
 | D3 Shooter | Asteroids style game in HTML5 as a demo of the d3 library. | [GitHub](https://github.com/nsmirn0v/d3shooter) | [Play](http://d3shooter.herokuapp.com) |
-| Digger | HTML5 version of a Boulderdash game. | [GitHub](https://github.com/lutzroeder/digger) | - |
+| Digger | HTML5 version of a Boulderdash game. | [GitHub](https://github.com/lutzroeder/digger) | [Play](https://lutzroeder.github.io/digger/) |
 | Drakonas | Classic shoot 'em up game build with the Three.js library. | [GitHub](https://github.com/Casmo/Drakonas) | - |
 | Drill Bunny | Written in JavaScript and using the great Phaser library. | [GitHub](https://github.com/DreamShowAdventures/LudumDare29) | [Play](http://dreamshowadventures.github.io/LudumDare29/) |
 | DuckHunt JS | DuckHunt ported to JS and HTML5 with a level creator. | [GitHub](https://github.com/MattSurabian/DuckHunt-JS) | [Play](http://mattsurabian.com/duckhunt/) |
 | EKG Runner | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/Myztiq/ekgrunner) | - |
-| Elemental One | Built with the Phaser HTML5 game framework. | [GitHub](https://github.com/voithos/elemental-one) | [Play](http://skepsi.me/elemental-one/) |
+| Elemental One | Built with the Phaser HTML5 game framework. | [GitHub](https://github.com/voithos/elemental-one) | [Play](http://voithos.io/elemental-one/) |
 | Emberwind | HTML5 port of the indie platform game Emberwind. | [GitHub](https://github.com/operasoftware/Emberwind) | - |
 | ExecutiveMan | JavaScript MegaMen clone. | [GitHub](https://github.com/CamHenlin/ExecutiveMan) | - |
 | Flappy Bird | Flappy bird in html5. | [GitHub](https://github.com/hyspace/flappy) | - |
@@ -119,6 +116,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Hyperspace Garbage Collector | General Hyperspace Waste Management Solutions. | [GitHub](https://github.com/razh/game-off-2013) | [Play](http://razh.github.io/game-off-2013/) |
 | I Spy A Ghost | An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. | [GitHub](https://github.com/OmarShehata/I-Spy-A-Ghost) | [Play](http://omarshehata.me/html/ludum/) |
 | Jekyll & Hyde Collide | Multi-layered infinite side-scroller. | [GitHub](https://github.com/awesome-interactive/game-off-2013) | [Play](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html) |
+| Jolly Jumper | Made in Phaser. | [GitHub](https://github.com/shohan4556/jolly-jumper) | [Play](http://shohan4556.github.io/jolly-jumper/) |
 | JumpSuit | A multiplayer space shooter set in a wrapped universe. | [GitHub](https://github.com/KordonBleu/jumpsuit) | [Play](http://jumpsuit.space/) |
 | KILL THE BIRDS | A game made with just HTML and CSS (no Javascript) | [CodePen](https://codepen.io/elad2412/pen/DBeNNZ) | [Play](https://codepen.io/elad2412/full/DBeNNZ) |
 | Marble Soccer | Marble game for learning three.js. | [GitHub](https://github.com/jeromeetienne/marbleSoccer) | - |
@@ -305,7 +303,9 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | C-Dogs SDL | Overhead shoot-em-up port of the classic DOS game. | [GitHub](https://github.com/cxong/cdogs-sdl) | - |
 | Carotid Artillery | A top-down twin-stick shooter. | [GitTea](https://code.rocketnine.space/tslocum/carotidartillery) | [Play](https://rocketnine.itch.io/carotid-artillery) |
 | Chaos Projectile | 2D run'n'gun action game with RPG elements. | [GitHub](https://github.com/WinterLicht/Chaos-Projectile) | - |
+| Chromacore | 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay. | [GitHub](https://github.com/Murkantilism/game-off-2013) | - |
 | Clonepoint | Libre clone of Gunpoint, a game in which you hack and punch your way to victory. | [GitHub](https://github.com/rohit-n/Clonepoint) | - |
+| Color Quest | Infinite runner following a black and white pixel's quest to change into a color pixel. | [GitHub](https://github.com/redbluegames/game-off-2013) | - |
 | Cr1ckt | Tap left and right to jump through the caves to the fruit ...as long as the game. | [GitHub](https://github.com/sinisterstuf/cr1ckt) | [Play](sinisterstuf.itch.io/cr1ckt) |
 | DynaDungeons | Bomberman clone using the awesome open source Godot game engine. | [GitHub](https://github.com/akien-mga/dynadungeons) | - |
 | Duckmarines | A ChuChu Rocket remake for PC. | [GitHub](https://github.com/SimonLarsen/duckmarines) | - |
