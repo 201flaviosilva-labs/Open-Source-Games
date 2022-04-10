@@ -425,6 +425,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Name | Description | Source | Play (Browser Version) |
 | ---- | ----------- | ------ | ---------------------- |
 | Armagetron | Game based in the Tron movie. | [Source Forge](https://sourceforge.net/projects/armagetronad/)/[GitLab](https://gitlab.com/armagetronad/armagetronad) | - |
+| Libre TrainSim | Train Simulator written in Godot Engine - Free for everyone. | [GitHub](https://github.com/Libre-TrainSim/Libre-TrainSim) | - |
 | Stunt Rally | Rally game with Track Editor, based on VDrift and OGRE. | [GitHub](https://github.com/stuntrally/stuntrally) | - |
 | SuperTuxKart | Free 3D kart racing game featuring open source mascots. | [GitHub](https://github.com/supertuxkart/stk-code) | - |
 
