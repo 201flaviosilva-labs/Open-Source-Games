@@ -203,6 +203,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Blk Game | Multiplayer Javascript/WebGL voxel world game demo. | [GitHub](https://github.com/morozd/blk-game) | [Play](http://benvanik.github.io/blk-game/) |
 | Cube Engine | 3D engine completely written in HTML5 without OpenGL. | [GitHub](https://github.com/Nurgak/Cube-engine) | [Play](http://nurgak.github.io/Cube-engine/) |
 | Project Cube | Voxel game based on Minecraft made with HTML5. | [GitHub](https://github.com/B-Train04/Project-Cube) | [Play](https://b-train04.github.io/Project-Cube/projectCube/index.html) |
+| Voxel Metaverse | Playing with voxel.js | [GitHub](https://github.com/voxel/voxelmetaverse) | [Play](http://voxel.github.io/voxelmetaverse/) |
 
 ## Puzzle
 
