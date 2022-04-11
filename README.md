@@ -78,6 +78,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Asteroids | Pure JavaScript asteroids. | [GitHub](http://github.com/dmcinnes/HTML5-Asteroids) | [Play](http://dougmcinnes.com/html-5-asteroids/) |
 | Avabranch | GitHub Game Off 2012 entry. | [GitHub](https://github.com/Zolmeister/avabranch) | [Play](http://avabranch.zolmeister.com/) |
 | Ball And Wall | Pure JavaScript arkanoid style game. | [GitHub](https://github.com/budnix/ball-and-wall) | [Play](http://ballandwall.com/) |
+| Bit Maze | A simple platformer maze | [CodePen](https://codepen.io/takaneichinose/pen/jOYPjgz) | [Play](https://codepen.io/takaneichinose/full/jOYPjgz) |
 | Breakout | Breakout multiplayer with HTML5. | [GitHub](https://github.com/Couchfriends/breakout) | - |
 | Breakouts | A compilation of the breakout game written in multiple JavaScript frameworks | [GitHub](https://github.com/city41/breakouts) | [Play]( https://jsbreakouts.org/) |
 | Captain Rogers | Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. | [GitHub](https://github.com/EnclaveGames/Captain-Rogers) | [Play](http://enclavegames.com/games/captain-rogers/) |
