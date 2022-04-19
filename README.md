@@ -106,19 +106,19 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | ExecutiveMan | JavaScript MegaMen clone. | [GitHub](https://github.com/CamHenlin/ExecutiveMan) | - |
 | Flappy Bird | Flappy bird in html5. | [GitHub](https://github.com/hyspace/flappy) | - |
 | Fire Cosmos | A simple 2D space shooter | [GitHub](https://github.com/Mangito/FireCosmos) | [Play](https://mangito.github.io/FireCosmos/) |
-| Fluid Table Tennis | Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. | [GitHub](https://github.com/anirudhjoshi/fluid_table_tennis) | [Play](http://anirudhjoshi.github.com/fluid_table_tennis) |
-| FlxInvaders | Very simple Flixel game inspired by the Taito classic. | [GitHub](https://github.com/AdamAtomic/Flx-Invaders) | [Play](http://flixel.org/flxinvaders/) |
-| FlxTeroids | Very simple Flixel game inspired by the classic arcade shooter. | [GitHub](https://github.com/AdamAtomic/FlxTeroids) | [Play](http://www.flixel.org/flxteroids/) |
-| Grave Robbers | Sort of GIRP-inspired tower defense. | [GitHub](https://github.com/AdamAtomic/GraveRobbers) | [Play](http://adamatomic.com/graverobbers) |
-| Heal 'em All | Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. | [GitHub](https://github.com/krzysu/game-off-2013) | [Play](http://games.myviews.pl/heal-em-all/) |
+| Fluid Table Tennis | Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. | [GitHub](https://github.com/anirudhjoshi/fluid_table_tennis) | - |
+| FlxInvaders | Very simple Flixel game inspired by the Taito classic. | [GitHub](https://github.com/AdamAtomic/Flx-Invaders) | [!Play](http://flixel.org/flxinvaders/) |
+| FlxTeroids | Very simple Flixel game inspired by the classic arcade shooter. | [GitHub](https://github.com/AdamAtomic/FlxTeroids) | [!Play](http://www.flixel.org/flxteroids/) |
+| Grave Robbers | Sort of GIRP-inspired tower defense. | [GitHub](https://github.com/AdamAtomic/GraveRobbers) | [!Play](http://adamatomic.com/graverobbers) |
+| Heal 'em All | Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. | [GitHub](https://github.com/krzysu/game-off-2013) | [Play](https://heal-em-all-game.netlify.app/) |
 | Homo Game | A simple Phaser platform game | [GitLab](https://gitlab.com/mangito/HomoGame/Phaser-3-Arcade) | [Play](https://mangito.gitlab.io/HomoGame/HomoGame/src/Games/Phaser3Arcade/index.html) |
-| HotFix | Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. | [GitHub](https://github.com/sdrdis/hotfix) | [Play](http://sdrdis.github.com/hotfix/) |
+| HotFix | Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. | [GitHub](https://github.com/sdrdis/hotfix) | [Play](http://sebastien.drouyer.com/hotfix/) |
 | hurry! | Small but speedy arcade shooter. | [GitHub](https://github.com/hughsk/ludum-dare-27) | [Play](http://hughsk.io/ludum-dare-27/) |
 | Hyperspace Garbage Collector | General Hyperspace Waste Management Solutions. | [GitHub](https://github.com/razh/game-off-2013) | [Play](http://razh.github.io/game-off-2013/) |
 | I Spy A Ghost | An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. | [GitHub](https://github.com/OmarShehata/I-Spy-A-Ghost) | [Play](http://omarshehata.me/html/ludum/) |
 | Jekyll & Hyde Collide | Multi-layered infinite side-scroller. | [GitHub](https://github.com/awesome-interactive/game-off-2013) | [Play](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html) |
 | Jolly Jumper | Made in Phaser. | [GitHub](https://github.com/shohan4556/jolly-jumper) | [Play](http://shohan4556.github.io/jolly-jumper/) |
-| JumpSuit | A multiplayer space shooter set in a wrapped universe. | [GitHub](https://github.com/KordonBleu/jumpsuit) | [Play](http://jumpsuit.space/) |
+| JumpSuit | A multiplayer space shooter set in a wrapped universe. | [GitHub](https://github.com/KordonBleu/jumpsuit) | [!Play](http://jumpsuit.space/) |
 | KILL THE BIRDS | A game made with just HTML and CSS (no Javascript) | [CodePen](https://codepen.io/elad2412/pen/DBeNNZ) | [Play](https://codepen.io/elad2412/full/DBeNNZ) |
 | Marble Soccer | Marble game for learning three.js. | [GitHub](https://github.com/jeromeetienne/marbleSoccer) | - |
 | Mario 5 HTML | Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. | [GitHub](https://github.com/robertkleffner/mariohtml5) | - |
