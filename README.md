@@ -463,6 +463,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Colobot | A real-time strategy game with programmable bots. | [GitHub](https://github.com/colobot/colobot) | - |
 | CorsixTH | Clone of Theme Hospital. | [GitHub](https://github.com/CorsixTH/CorsixTH) | - |
 | Curse of War | Fast-paced action strategy game with ncurses and SDL frontends. | [GitHub](https://github.com/a-nikolaev/curseofwar) | - |
+| Freeciv | Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. | [GitHub](https://github.com/freeciv/freeciv) | - |
 | Harris | Strategy game based around the actions of RAF Bomber Command in the Second World War. | [GitHub](https://github.com/ec429/harris) | - |
 | Hedgewars | A turn based strategy, artillery, action and comedy game. | [GitHub](https://github.com/hedgewars/hw) | - |
 | KaM Remake | RTS game remake of “Knights and Merchants”  written in Delphi from scratch. | [GitHub](https://github.com/Kromster80/kam_remake) | - |
