@@ -20,6 +20,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 
 # Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Browser-Based](#browser-based)
   - [Boardgame](#boardgame)
   - [Arcade](#arcade)
@@ -29,7 +30,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
   - [Strategy](#strategy)
   - [Racing](#racing)
   - [Sandbox](#sandbox)
-  - [Puzzle](#puzzle)
+  - [Puzzle/Card/Board](#puzzlecardboard)
   - [Clicker](#clicker)
   - [Point and Click](#point-and-click)
   - [Others](#others)
@@ -40,7 +41,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
   - [MMORPG](#mmorpg-1)
   - [RPG](#rpg-1)
   - [Platform](#platform)
-  - [Puzzle/card/board](#puzzlecardboard)
+  - [Puzzle/Card/Board](#puzzlecardboard-1)
   - [Racing](#racing-1)
   - [Programming](#programming)
   - [Sandbox](#sandbox-1)
@@ -206,7 +207,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Project Cube | Voxel game based on Minecraft made with HTML5. | [GitHub](https://github.com/B-Train04/Project-Cube) | [Play](https://b-train04.github.io/Project-Cube/projectCube/index.html) |
 | Voxel Metaverse | Playing with voxel.js | [GitHub](https://github.com/voxel/voxelmetaverse) | [Play](http://voxel.github.io/voxelmetaverse/) |
 
-## Puzzle
+## Puzzle/Card/Board
 
 | Name | Description | Source | Play |
 | ---- | ----------- | ------ | ---- |
@@ -251,6 +252,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Sudoku JS | A Sudoku puzzle game with a clean design and mobile devices in mind. | [GitHub](https://github.com/baruchel/sudoku-js) | [Play](http://baruchel.insomnia247.nl/sudoku-js/sudoku.html) |
 | Swap | New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. | [GitHub](https://github.com/nmoroze/swap) | [Play](http://nmoroze.github.io/swap) |
 | The Cube | See if you can solve this classic Rubik's puzzle game made in three.js. | [CodePen](https://codepen.io/bsehovac/pen/EMyWVv) | [Play](https://codepen.io/bsehovac/full/EMyWVv) |
+| Tic-Tac-Toe Multiplayer | Turn-based multiplayer example powered by Colyseus | [GitHub](https://github.com/endel/colyseus-tic-tac-toe) | [Play](http://tictactoe-colyseus.herokuapp.com/) |
 | TransCube | 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations.  | [GitHub](https://github.com/jeroenverfallie/ggo13-transcube) | [Play](http://code.jerev.be/ggo13-transcube/) |
 | untrusted | Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. | [GitHub](https://github.com/AlexNisnevich/untrusted) | [Play](http://alex.nisnevich.com/untrusted/) |
 | Matching Pairs | Made in HTML5 using Phaser as the framework, original assets and generated music. | [GitHub](https://github.com/gamedolphin/matching-pairs) | - |
@@ -399,7 +401,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | The Secret Chronicles of Dr. M. | A 2D platform game in classic style. | [GitHub](https://github.com/Secretchronicles/TSC) | - |
 | SuperTux | Classic 2D jump'n'run sidescroller with Tux. | [GitHub](https://github.com/SuperTux/supertux) | - |
 
-## Puzzle/card/board
+## Puzzle/Card/Board
 
 | Name | Description | Source | Play (Browser Version) |
 | ---- | ----------- | ------ | ---------------------- |
