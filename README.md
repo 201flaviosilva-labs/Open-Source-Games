@@ -346,6 +346,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | GlPortal | A modern 3D game and engine with portals written in C++. | [GitHub](https://github.com/GlPortal/glPortal) | - |
 | ioquake3 | The free software FPS engine that can be used to play Quake 3, or make your own game. | [GitHub](https://github.com/ioquake/ioq3) | - |
 | LWJake2 | LWJGL port of Quake 2. | [GitHub](https://github.com/flibitijibibo/LWJake2) | - |
+| Meteorite | Meteorite is a lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018. | [GitHub](https://github.com/Bauxitedev/meteorite) | - |
 | OpenLara | Tomb Raider open-source engine | [GitHub](https://github.com/XProger/OpenLara) | [Play](http://xproger.info/projects/OpenLara/) |
 | openspades | Compatible client of Ace of Spades 0.75. | [GitHub](https://github.com/yvt/openspades) | - |
 | Red Eclipse | Free, casual arena shooter featuring parkour. | [GitHub](https://github.com/red-eclipse) | - |
