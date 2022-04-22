@@ -491,6 +491,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Source of Tales | Entry in the Liberated Pixel Cup 2012. | [GitHub](https://github.com/tales/sourceoftales) | - |
 | Tanks of Freedom | Turn-based strategy game in isometric pixel-art style. | [GitHub](https://github.com/w84death/Tanks-of-Freedom) | - |
 | The Battle for Wesnoth | Turn-based strategy game with a high fantasy theme. | [GitHub](https://github.com/wesnoth/wesnoth) | - |
+| TripleA | TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk. | [GitHub](https://github.com/triplea-game/triplea) | - |
 | Unknown Horizons | 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine. | [GitHub](https://github.com/unknown-horizons/) | - |
 | Voxeliq | Block-based game engine implementation developed with C#. | [GitHub](https://github.com/raistlinthewiz/voxeliq) | - |
 | Wargus | Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine. | [GitHub](https://github.com/Wargus/wargus) | - |
