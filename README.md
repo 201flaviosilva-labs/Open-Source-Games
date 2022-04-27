@@ -105,6 +105,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Elemental One | Built with the Phaser HTML5 game framework. | [GitHub](https://github.com/voithos/elemental-one) | [Play](http://voithos.io/elemental-one/) |
 | Emberwind | HTML5 port of the indie platform game Emberwind. | [GitHub](https://github.com/operasoftware/Emberwind) | - |
 | ExecutiveMan | JavaScript MegaMen clone. | [GitHub](https://github.com/CamHenlin/ExecutiveMan) | - |
+| Farzone | The open source 2D shooter fighting game | [GitHub](https://github.com/saricden/farzone) | [Play](https://farzone.saricden.com/) |
 | Flappy Bird | Flappy bird in html5. | [GitHub](https://github.com/hyspace/flappy) | - |
 | Fire Cosmos | A simple 2D space shooter | [GitHub](https://github.com/Mangito/FireCosmos) | [Play](https://mangito.github.io/FireCosmos/) |
 | Fluid Table Tennis | Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. | [GitHub](https://github.com/anirudhjoshi/fluid_table_tennis) | - |
