@@ -22,7 +22,6 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 
 - [Table of Contents](#table-of-contents)
 - [Browser-Based](#browser-based)
-  - [Boardgame](#boardgame)
   - [Arcade](#arcade)
   - [FPS](#fps)
   - [RPG](#rpg)
@@ -57,17 +56,6 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 -------
 
 # Browser-Based
-
-## Boardgame
-
-| Name | Description | Source | Play |
-| ---- | ----------- | ------ | ---- |
-| 3D Hartwing Chess Set | 3D chess game done in HTML/CSS/JS. | [GitHub](https://github.com/juliangarnier/3D-Hartwig-chess-set) | [Play](http://codepen.io/juliangarnier/full/BsIih) |
-| c4 | Connect Four game, with AI, in HTML/CSS/JS. | [GitHub](https://github.com/kenrick95/c4) | [Play](https://kenrick95.github.io/c4/demo/) |
-| Desperate Gods        | Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. | [GitHub](https://github.com/David20321/FTJ) | - |
-| Green Mahjong | Solitaire mahjong game done in HTML/CSS/JS. | [GitHub](https://github.com/danbeck/green-mahjong) | [Play](http://greenmahjong.daniel-beck.org/) |
-| Kriegspiel | The game of imperfect information, the Kriegspiel chess variant. | [GitHub](https://github.com/binarymax/kriegspiel) | [!Play](http://krgspl.com/) |
-| Lichess | Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. | [GitHub](https://github.com/ornicar/lila) | [Play](http://lichess.org/) |
 
 ## Arcade
 
@@ -222,6 +210,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | 0hh1 | Lovely little logic game by Q42. | [GitHub](https://github.com/Q42/0hh1) | [Play](http://0hh1.com) |
 | 2048 | Sliding addition game | [GitHub](https://github.com/gabrielecirulli/2048) | [Play](http://gabrielecirulli.github.io/2048/) |
 | 2048 game | 2048 clone game | [CodePen](https://codepen.io/camsong/pen/poveQM) | [Play](https://codepen.io/camsong/full/poveQM) |
+| 3D Hartwing Chess Set | 3D chess game done in HTML/CSS/JS. | [GitHub](https://github.com/juliangarnier/3D-Hartwig-chess-set) | [Play](http://codepen.io/juliangarnier/full/BsIih) |
 | A Dark Room | Minimalist Text Adventure game written in JavaScript. | [GitHub](https://github.com/doublespeakgames/adarkroom) | [Play](http://adarkroom.doublespeakgames.com/) |
 | Anagramica | A word game and API for anagrams. | [GitHub](https://github.com/binarymax/anagramica) | [Play](http://www.anagramica.com/) |
 | Astry | WebGL maze game built with Three.js and Box2dWeb. | [GitHub](https://github.com/wwwtyro/Astray) | [Play](http://wwwtyro.github.io/Astray/) |
@@ -230,20 +219,25 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | BlicblockJS | JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board. | [GitHub](https://github.com/cheshire137/blicblock-js) | - |
 | Blockrain.js | Embed & play the classic game on your site. Simple as that. | [GitHub](https://github.com/Aerolab/blockrain.js) | [Play](http://aerolab.github.io/blockrain.js/) |
 | Branching Out | Minimalist game about leaving home. | [GitHub](https://github.com/thehen/game-off-2012) | [Play](http://henryhoffman.com/branchingout/) |
+| c4 | Connect Four game, with AI, in HTML/CSS/JS. | [GitHub](https://github.com/kenrick95/c4) | [Play](https://kenrick95.github.io/c4/demo/) |
 | Clone Man | Puzzle, memory, retro game with simple graphics. | [GitHub](https://github.com/adhicl/game-off-2012) | [Play](http://www.kongregate.com/games/Sorobaid/clone-man) |
 | Copycat | A puzzle game to put all cats at the same time in different holes | [CodePen](https://codepen.io/Gthibaud/pen/ryQRYP) | [Play](https://codepen.io/Gthibaud/full/ryQRYP) |
 | Couch 2048 | A physics-based puzzle, loosely related to the original 2048 game. | [GitHub](https://github.com/mvasilkov/glitch2016) | [Play](http://js13kgames.com/games/couch-2048/index.html) |
 | cube-composer | A puzzle game inspired by functional programming. | [GitHub](https://github.com/sharkdp/cube-composer) | [Play](http://david-peter.de/cube-composer) |
+| Desperate Gods | Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. | [GitHub](https://github.com/David20321/FTJ) | - |
 | Drunken Viking | Retrace your drunken rampage in reverse time. | [GitHub](https://github.com/cxong/DrunkenViking) | [Play](http://congusbongus.itch.io/drunken-viking) |
 | Ending | Roguelike puzzle game. | [GitHub](http://robotacid.com/flash/ending) | [Play](http://robotacid.com/flash/ending/) |
 | Flip | A memory card game | [CodePen](https://codepen.io/zerospree/pen/bNWbvW) | [Play](https://codepen.io/zerospree/full/bNWbvW) |
 | Follow me! A Simon Clone | Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine | [GitHub](https://github.com/gamedolphin/follow_me_javascript_simon_clone) | - |
 | For King | Puzzle platformer game about a king in search for his lost crown. | [GitHub](https://github.com/AD1337/ForKingGame) | [Play](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0) |
 | Genetic Drift | Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?. | [GitHub](https://github.com/DancingBanana/genetic-drift) | - |
+| Green Mahjong | Solitaire mahjong game done in HTML/CSS/JS. | [GitHub](https://github.com/danbeck/green-mahjong) | [Play](http://greenmahjong.daniel-beck.org/) |
 | Hex 2048 | Hexgrid-based clone of 2048. | [GitHub](https://github.com/jeffhou/hex-2048) | [Play](https://jeffhou.github.io/hex-2048/) |
 | Hexahedral | Push down all the blocks in the minimum number of moves. | [GitHub](https://github.com/mminer/hexahedral) | [Play](http://matthewminer.com/hexahedral) |
 | Hextris | Addictive puzzle game inspired by Tetris. | [GitHub](https://github.com/Hextris/hextris) | [Play](http://hextris.io/) |
 | Infectors | Sokoban-like puzzle game developed with Phaser. | [GitHub](https://github.com/satanas/infectors) | [Play](http://satanas.github.io/infectors/) |
+| Kriegspiel | The game of imperfect information, the Kriegspiel chess variant. | [GitHub](https://github.com/binarymax/kriegspiel) | [!Play](http://krgspl.com/) |
+| Lichess | Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. | [GitHub](https://github.com/ornicar/lila) | [Play](http://lichess.org/) |
 | Lost! Beneath the Surface | You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark. | [GitHub](https://github.com/gamedolphin/Lost-Beneath-The-Surface) | - |
 | Maze 3D | A 3D maze game. | [GitHub](https://github.com/demonixis/Maze3D) | [Play](http://demonixis.github.io/Maze3D/) |
 | Monkey Rally | JavaScript game created for the Ludum Dare jam. | [GitHub](https://github.com/antila/ludum-dare-28) | [Play](http://antila.github.io/ludum-dare-28/) |
