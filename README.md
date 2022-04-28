@@ -85,7 +85,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Captain Rogers | Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. | [GitHub](https://github.com/EnclaveGames/Captain-Rogers) | [Play](http://enclavegames.com/games/captain-rogers/) |
 | Carnival Game | A point and shoot game made with just HTML and CSS (no Javascript) | [CodePen](https://codepen.io/una/pen/NxZaNr) | [Play](https://codepen.io/una/full/NxZaNr) |
 | Cell Mates | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/gamebytes/cellmates) | - |
-| Ceros Snake | A remake of the iconic 70's Snake game. | [GitHub](https://github.com/mjhasbach/ceros-snake) | -|
+| Ceros Snake | A remake of the iconic 70's Snake game. | [GitHub](https://github.com/mjhasbach/ceros-snake) | - |
 | CHANG€ | Intense game about the extreme life of supermarket cashiers. | [GitHub](https://github.com/RothschildGames/change) | [!Play](http://change-game.herokuapp.com/) |
 | Circus Charlie | HTML5 tribute created in Phaser. | [GitHub](https://github.com/eugenioclrc/circushtml5) | [Play](http://gamegur-us.github.io/circushtml5/) |
 | COLORON GAME | A game made to inspire developers to use GSAP, ES6 and Flexbox | [CodePen](https://codepen.io/gregh/pen/yVLOyO) | [Play](https://codepen.io/gregh/full/yVLOyO) |
@@ -144,7 +144,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Release Cycles | Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. | [GitHub](https://github.com/RothschildGames/release-cycles) | - |
 | Save The Forest | Save the burning forest! | [GitHub](https://github.com/softvar/save-the-forest) | [Play](http://js13kgames.com/games/save-the-forest/index.html) |
 | Ski Free | JavaScript port of the classic PC Game, Skifree. | [GitHub](https://github.com/basicallydan/skifree.js) | [Play](http://basicallydan.github.com/skifree.js) |
-| Snake | Clone of the classic Snake game. | [GitHub](https://github.com/jrgdiz/snake) | [Play](http://diz.es/snake/) |
+| Snake | Clone of the classic Snake game. | [GitHub](https://github.com/jrgdiz/snake) | - |
 | Snake Game | Snake game clone build in html | [CodePen](https://codepen.io/CaioPaiola/pen/nojJmQ) | [Play](https://codepen.io/CaioPaiola/full/nojJmQ) |
 | Snake_new | Classic nokia snake game using web. | [GitHub](https://github.com/RabiRoshan/snake_game) | [Play](https://rabiroshan.github.io/snake_game/) |
 | Space-Shooter | A classic shoot'em up space shooter build in HTML5 with multiplayer. | [GitHub](https://github.com/Couchfriends/Space-Shooter) | [Play](http://couchfriends.com/games/5) |
@@ -157,6 +157,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Survivor | Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. | [GitHub](https://github.com/scottschiller/SURVIVOR) | [Play](http://www.schillmania.com/survivor/) |
 | The frantic run of the valorous rabbit | Save this little guy from this (not so evil) wolf.| [CodePen](https://codepen.io/Yakudoo/pen/YGxYej) | [Play](https://codepen.io/Yakudoo/full/YGxYej) |
 | Tower Blocks | Tower building game. Place blocks by clicking, tapping or spacebarring. | [CodePen](https://codepen.io/ste-vg/pen/ppLQNW) | [Play](https://codepen.io/ste-vg/full/ppLQNW) |
+| Vanilla JS Snake | A vanilla glow snake game. | [CodePen](https://codepen.io/fariati/pen/mdRpEYP) | [Play](https://codepen.io/fariati/full/mdRpEYP) |
 | WPilot | A browser-based remake of the famous XPilot game, built with NodeJS and HTML5 | [GitHub](https://github.com/jfd/wpilot) | - |
 | zedinvaders | Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". | [GitHub](https://github.com/salvatorecapolupo/zedinvaders) | - |
 | FullScreenMario | A free HTML 5 remake of Super Mario Bros with additional features. | [GitHub](https://github.com/FullScreenShenanigans/FullScreenMario/) | - |
