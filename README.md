@@ -236,6 +236,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | cube-composer | A puzzle game inspired by functional programming. | [GitHub](https://github.com/sharkdp/cube-composer) | [Play](http://david-peter.de/cube-composer) |
 | Drunken Viking | Retrace your drunken rampage in reverse time. | [GitHub](https://github.com/cxong/DrunkenViking) | [Play](http://congusbongus.itch.io/drunken-viking) |
 | Ending | Roguelike puzzle game. | [GitHub](http://robotacid.com/flash/ending) | [Play](http://robotacid.com/flash/ending/) |
+| Flip | A memory card game | [CodePen](https://codepen.io/zerospree/pen/bNWbvW) | [Play](https://codepen.io/zerospree/full/bNWbvW) |
 | Follow me! A Simon Clone | Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine | [GitHub](https://github.com/gamedolphin/follow_me_javascript_simon_clone) | - |
 | For King | Puzzle platformer game about a king in search for his lost crown. | [GitHub](https://github.com/AD1337/ForKingGame) | [Play](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0) |
 | Genetic Drift | Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?. | [GitHub](https://github.com/DancingBanana/genetic-drift) | - |
