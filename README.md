@@ -121,6 +121,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | I Spy A Ghost | An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. | [GitHub](https://github.com/OmarShehata/I-Spy-A-Ghost) | [Play](http://omarshehata.me/html/ludum/) |
 | Jekyll & Hyde Collide | Multi-layered infinite side-scroller. | [GitHub](https://github.com/awesome-interactive/game-off-2013) | [Play](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html) |
 | Jolly Jumper | Made in Phaser. | [GitHub](https://github.com/shohan4556/jolly-jumper) | [Play](http://shohan4556.github.io/jolly-jumper/) |
+| JS Planet defense game | Protect the planet! Destroy the asteroids to save your people! | [CodePen](https://codepen.io/Loopez10/pen/dMaVdQ) | [Play](https://codepen.io/Loopez10/full/dMaVdQ) |
 | JumpSuit | A multiplayer space shooter set in a wrapped universe. | [GitHub](https://github.com/KordonBleu/jumpsuit) | [!Play](http://jumpsuit.space/) |
 | KILL THE BIRDS | A game made with just HTML and CSS (no Javascript) | [CodePen](https://codepen.io/elad2412/pen/DBeNNZ) | [Play](https://codepen.io/elad2412/full/DBeNNZ) |
 | Marble Soccer | Marble game for learning three.js. | [GitHub](https://github.com/jeromeetienne/marbleSoccer) | - |
