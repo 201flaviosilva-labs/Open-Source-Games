@@ -61,6 +61,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 
 | Name | Description | Source | Play |
 | ---- | ----------- | ------ | ---- |
+| A generic Infinite Runner game | A generic Infinite Runner game | [CodePen](https://codepen.io/EduardoLopes/pen/vYWpLQ) | [Play](https://codepen.io/EduardoLopes/full/vYWpLQ) |
 | Alge's Escapade | HTML5, JavaScript, GameJs arcade game where you control an Algae. | [GitHub](https://github.com/Dave-and-Mike/game-off-2012) | [Play](http://dave-and-mike.github.io/game-off-2012/) |
 | Alien Invasion | Demo Game for Mobile HTML5 Game Development. | [GitHub](https://github.com/cykod/AlienInvasion) | [Play](http://cykod.github.io/AlienInvasion/) |
 | Arashi | Arashi is a clone of the Arcade game Tempest. | [GitHub](https://github.com/stephank/arashi-js) | [!Play](http://stephank.github.io/arashi-js/) |
