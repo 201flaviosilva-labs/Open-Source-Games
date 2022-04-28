@@ -93,6 +93,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Codename Lumberjack | Simple flash game written using Actionscript 3.0 and Flixel. | [GitHub](https://github.com/arkeus/Codename-Lumberjack) | - |
 | Coffee Snake | HTML5 snake game written in CoffeeScript. | [GitHub](https://github.com/arkeus/Coffee-Snake) | [Play](http://dommmel.github.io/coffee-snake/) |
 | Coil | HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. | [GitHub](https://github.com/leereilly/Coil) | [Play](http://hakim.se/experiments/html5/coil/) |
+| Color Blast! | A top down color shooter | [CodePen](https://codepen.io/natewiley/pen/ExEoeZ) | [Play](https://codepen.io/natewiley/full/ExEoeZ) |
 | Core Commiter | GitHub Game Off 2012 entry. | [GitHub](https://github.com/vladikoff/game-off-2012) | - |
 | Crappy Bird | Flappy Bird clone in JavaScript and Canvas2D API. | [GitHub](https://github.com/varunpant/CrappyBird) | - |
 | Custom Tetris | Play the classic Tetris game the way you like it. | [GitHub](https://github.com/ondras/custom-tetris) | [Play](http://ondras.github.io/custom-tetris/) |
@@ -140,6 +141,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Platform game engine | A simple platform game engine, the map is customisable and scriptable. | [CodePen](https://codepen.io/dissimulate/pen/AGYEby) | [Play](https://codepen.io/dissimulate/full/AGYEby) |
 | PolyBranch | Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? | [GitHub](https://github.com/gbatha/PolyBranch) | [Play](http://gregbatha.com/branches/) |
 | Protocol 390 | To survive in People's Park, you must supply the prophet with change. | [GitHub](https://github.com/josegallegos07/game-off-2013) | - |
+| Pure CSS Tic Tac Toe | A Complete tic tac toe game only using CSS | [CodePen](https://codepen.io/ziga-miklic/pen/QWrGyW) | [Play](https://codepen.io/ziga-miklic/full/QWrGyW) |
 | Raging Gardens | Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. | [GitHub](https://github.com/petarov/game-off-2012) | - |
 | Release Cycles | Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. | [GitHub](https://github.com/RothschildGames/release-cycles) | - |
 | Save The Forest | Save the burning forest! | [GitHub](https://github.com/softvar/save-the-forest) | [Play](http://js13kgames.com/games/save-the-forest/index.html) |
