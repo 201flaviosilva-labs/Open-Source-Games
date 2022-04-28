@@ -124,8 +124,9 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | KILL THE BIRDS | A game made with just HTML and CSS (no Javascript) | [CodePen](https://codepen.io/elad2412/pen/DBeNNZ) | [Play](https://codepen.io/elad2412/full/DBeNNZ) |
 | Marble Soccer | Marble game for learning three.js. | [GitHub](https://github.com/jeromeetienne/marbleSoccer) | - |
 | Mario 5 HTML | Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. | [GitHub](https://github.com/robertkleffner/mariohtml5) | - |
-| Mega Girl | Megaman inspired game. | [GitHub](https://github.com/ddionisio/game-off-2013) | [Play](http://www.renegadeware.com/web_games/megagirl/) |
 | Masonry JavaScript Tetris Clone | Tetris clone created using HTML5/JavaScript/Phaser. | [GitHub](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) | - |
+| Mega Girl | Megaman inspired game. | [GitHub](https://github.com/ddionisio/game-off-2013) | [Play](http://www.renegadeware.com/web_games/megagirl/) |
+| Menja | A game about smashing cubes. | [CodePen](https://codepen.io/MillerTime/pen/BexBbE) | [Play](https://codepen.io/MillerTime/full/BexBbE) |
 | Mode | Small(but sadly not that simple) demo game built on the Flixel framework. | [GitHub](https://github.com/AdamAtomic/Mode) | [Play](http://www.adamatomic.com/mode/) |
 | Monster Wants Candy | Simple HTML5 game created with Phaser 2.0.7. | [GitHub](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) | [Play](http://candy-demo.enclavegames.com/) |
 | Newton Adventure | Play Newton, a very special hero who has the power to change gravity direction! | [GitHub](https://github.com/devnewton/newton_adventure) | [Play](http://play.bci.im/newton_adventure/) |
