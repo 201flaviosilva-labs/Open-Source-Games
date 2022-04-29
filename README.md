@@ -116,15 +116,15 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Marble Soccer | Marble game for learning three.js. | [GitHub](https://github.com/jeromeetienne/marbleSoccer) | - |
 | Mario 5 HTML | Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. | [GitHub](https://github.com/robertkleffner/mariohtml5) | - |
 | Masonry JavaScript Tetris Clone | Tetris clone created using HTML5/JavaScript/Phaser. | [GitHub](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) | - |
-| Mega Girl | Megaman inspired game. | [GitHub](https://github.com/ddionisio/game-off-2013) | [Play](http://www.renegadeware.com/web_games/megagirl/) |
+| Mega Girl | Megaman inspired game. | [GitHub](https://github.com/ddionisio/game-off-2013) | - |
 | Menja | A game about smashing cubes. | [CodePen](https://codepen.io/MillerTime/pen/BexBbE) | [Play](https://codepen.io/MillerTime/full/BexBbE) |
-| Mode | Small(but sadly not that simple) demo game built on the Flixel framework. | [GitHub](https://github.com/AdamAtomic/Mode) | [Play](http://www.adamatomic.com/mode/) |
+| Mode | Small(but sadly not that simple) demo game built on the Flixel framework. | [GitHub](https://github.com/AdamAtomic/Mode) | - |
 | Monster Wants Candy | Simple HTML5 game created with Phaser 2.0.7. | [GitHub](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) | [Play](http://candy-demo.enclavegames.com/) |
-| Newton Adventure | Play Newton, a very special hero who has the power to change gravity direction! | [GitHub](https://github.com/devnewton/newton_adventure) | [Play](http://play.bci.im/newton_adventure/) |
 | Ninja Multiplayer Platformer | A real time multiplayer game using PubNub & Phaser's HTML5 game engine | [GitHub](https://github.com/PubNubDevelopers/Ninja-Multiplayer-Platformer) | [Play](https://pubnubdevelopers.github.io/Ninja-Multiplayer-Platformer/) |
+| O! | O! is a minimalistic game and a demo game for Cut.js library. You can play it online or download mobile apps. | [GitHub](https://github.com/github/game-o) | [Play](https://piqnt.com/o/) |
 | Octocat Jump | GitHub Game Off 2012 Entry. | [GitHub](https://github.com/ogoshen/game-off-2012) | [Play](http://ogoshen.github.io/game-off-2012/) |
 | Onslaught Arena | Fight off hordes of classic medieval monsters in this fast paced arcade shooter! | [GitHub](https://github.com/lostdecade/onslaught_arena) | [Play](http://arcade.lostdecadegames.com/onslaught_arena/) |
-| Pappu Pakia | Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. | [GitHub](https://github.com/mindd-it/pappu-pakia) | [Play](http://khele.in/pappu-pakia/) |
+| Pappu Pakia | Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. | [GitHub](https://github.com/mindd-it/pappu-pakia) | - |
 | Phaser Snake | JavaScript version of the snake game, created using the Phaser Engine. | [GitHub](https://github.com/gamedolphin/javascript_snake) | - |
 | Pinball Physics | A physics pinball game made with Matter.js. | [CodePen](https://codepen.io/lonekorean/pen/KXLrVX) | [Play](https://codepen.io/lonekorean/full/KXLrVX) |
 | PixelPlatformer | Simple platformer game that demostrates the power of the Entity game engine. | [GitHub](https://github.com/bendangelo/PixelPlatformer) | - |
@@ -132,10 +132,10 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | PolyBranch | Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? | [GitHub](https://github.com/gbatha/PolyBranch) | [Play](http://gregbatha.com/branches/) |
 | Protocol 390 | To survive in People's Park, you must supply the prophet with change. | [GitHub](https://github.com/josegallegos07/game-off-2013) | - |
 | Pure CSS Tic Tac Toe | A Complete tic tac toe game only using CSS | [CodePen](https://codepen.io/ziga-miklic/pen/QWrGyW) | [Play](https://codepen.io/ziga-miklic/full/QWrGyW) |
-| Raging Gardens | Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. | [GitHub](https://github.com/petarov/game-off-2012) | - |
-| Release Cycles | Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. | [GitHub](https://github.com/RothschildGames/release-cycles) | - |
+| Raging Gardens | Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. | [GitHub](https://github.com/petarov/game-off-2012) | [Play](https://gamejolt.com/games/raging-gardens/15586) |
+| Release Cycles | Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. | [GitHub](https://github.com/RothschildGames/release-cycles) | [Play](http://release-cycles.herokuapp.com/) |
 | Save The Forest | Save the burning forest! | [GitHub](https://github.com/softvar/save-the-forest) | [Play](http://js13kgames.com/games/save-the-forest/index.html) |
-| Ski Free | JavaScript port of the classic PC Game, Skifree. | [GitHub](https://github.com/basicallydan/skifree.js) | [Play](http://basicallydan.github.com/skifree.js) |
+| Ski Free | JavaScript port of the classic PC Game, Skifree. | [GitHub](https://github.com/basicallydan/skifree.js) | [Play](https://basicallydan.github.io/skifree.js/) |
 | Snake | Clone of the classic Snake game. | [GitHub](https://github.com/jrgdiz/snake) | - |
 | Snake Game | Snake game clone build in html | [CodePen](https://codepen.io/CaioPaiola/pen/nojJmQ) | [Play](https://codepen.io/CaioPaiola/full/nojJmQ) |
 | Snake_new | Classic nokia snake game using web. | [GitHub](https://github.com/RabiRoshan/snake_game) | [Play](https://rabiroshan.github.io/snake_game/) |
@@ -144,15 +144,14 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Square Off! | Multiplayer 1v1 air-hockey style game, place squares to deflect the ball. | [GitHub](https://github.com/ScriptaGames/SquareOff/) | [Play](http://sqoff.com/) |
 | SORADES 13K | Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". | [GitHub](https://github.com/maettig/starship-sorades-13k) | [Play](http://maettig.com/code/canvas/starship-sorades-13k/) |
 | Space Crusade | HTML5 game developped with PhaserJS Framework. | [GitHub](https://github.com/Loopeex/space-crusade) | - |
-| Space Invaders | Remake of Space Invaders in require.js. | [GitHub](https://github.com/StrykerKKD/SpaceInvaders) | [Play](http://strykerkkd.github.io/SpaceInvaders/) |
+| Space Invaders | Remake of Space Invaders in require.js. | [GitHub](https://github.com/StrykerKKD/SpaceInvaders) | - |
 | Super Mario Bros | Super Mario Bros level one written with Backbone Game Engine. | [GitHub](https://github.com/martindrapeau/backbone-game-engine) | [Play](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html) |
 | Survivor | Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. | [GitHub](https://github.com/scottschiller/SURVIVOR) | [Play](http://www.schillmania.com/survivor/) |
 | The frantic run of the valorous rabbit | Save this little guy from this (not so evil) wolf.| [CodePen](https://codepen.io/Yakudoo/pen/YGxYej) | [Play](https://codepen.io/Yakudoo/full/YGxYej) |
 | Tower Blocks | Tower building game. Place blocks by clicking, tapping or spacebarring. | [CodePen](https://codepen.io/ste-vg/pen/ppLQNW) | [Play](https://codepen.io/ste-vg/full/ppLQNW) |
 | Vanilla JS Snake | A vanilla glow snake game. | [CodePen](https://codepen.io/fariati/pen/mdRpEYP) | [Play](https://codepen.io/fariati/full/mdRpEYP) |
 | WPilot | A browser-based remake of the famous XPilot game, built with NodeJS and HTML5 | [GitHub](https://github.com/jfd/wpilot) | - |
-| zedinvaders | Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". | [GitHub](https://github.com/salvatorecapolupo/zedinvaders) | - |
-| FullScreenMario | A free HTML 5 remake of Super Mario Bros with additional features. | [GitHub](https://github.com/FullScreenShenanigans/FullScreenMario/) | - |
+| zedinvaders | Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". | [GitHub](https://github.com/salvatorecapolupo/zedinvaders) | [Play](https://gamejolt.com/games/zed-invaders-2-0/49980) |
 
 ## FPS
 
@@ -216,6 +215,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Anagramica | A word game and API for anagrams. | [GitHub](https://github.com/binarymax/anagramica) | [Play](http://www.anagramica.com/) |
 | Astry | WebGL maze game built with Three.js and Box2dWeb. | [GitHub](https://github.com/wwwtyro/Astray) | [Play](http://wwwtyro.github.io/Astray/) |
 | Beatrix | Music game where you arrange the drums to catch the beats and play the right rhythm. | [GitHub](https://github.com/cxong/Beatrix) | [Play](http://gamejolt.com/games/puzzle/beatrix/27454/) |
+| Bingo | Classic Indian School Bingo game (online 2 Player) using reactjs and peerjs (webRTC) | [GitHub](https://github.com/rabiroshan/bingo) | [Play](https://rabiroshan.github.io/bingo/) |
 | BitBot | HTML/JS game where you control a bot, which must sense, plan, and act. | [GitHub](https://github.com/recardona/BitBot) | - |
 | BlicblockJS | JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board. | [GitHub](https://github.com/cheshire137/blicblock-js) | - |
 | Blockrain.js | Embed & play the classic game on your site. Simple as that. | [GitHub](https://github.com/Aerolab/blockrain.js) | [Play](http://aerolab.github.io/blockrain.js/) |
