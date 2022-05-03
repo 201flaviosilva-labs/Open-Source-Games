@@ -67,6 +67,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Arashi | Arashi is a clone of the Arcade game Tempest. | [GitHub](https://github.com/stephank/arashi-js) | [!Play](http://stephank.github.io/arashi-js/) |
 | Asteroids | Pure JavaScript asteroids. | [GitHub](http://github.com/dmcinnes/HTML5-Asteroids) | -|
 | Asteroids | Recreation of the Asteroids in pure JavaScript | [CodePen](https://codepen.io/Margaux-dev/pen/XWXqRYX) | [Play](https://codepen.io/Margaux-dev/full/XWXqRYX) |
+| Asteroids | Asteroids clone in JavaScript and Canvas. | [GitHub](https://github.com/jsocol/asteroids) | [Play](https://jamessocol.com/asteroids/) |
 | Avabranch | GitHub Game Off 2012 entry. | [GitHub](https://github.com/Zolmeister/avabranch) | [Play](http://avabranch.zolmeister.com/) |
 | Ball And Wall | Pure JavaScript arkanoid style game. | [GitHub](https://github.com/budnix/ball-and-wall) | [Play](http://ballandwall.com/) |
 | Bit Maze | A simple platformer maze | [CodePen](https://codepen.io/takaneichinose/pen/jOYPjgz) | [Play](https://codepen.io/takaneichinose/full/jOYPjgz) |
