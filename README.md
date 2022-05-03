@@ -65,7 +65,8 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Alge's Escapade | HTML5, JavaScript, GameJs arcade game where you control an Algae. | [GitHub](https://github.com/Dave-and-Mike/game-off-2012) | [Play](http://dave-and-mike.github.io/game-off-2012/) |
 | Alien Invasion | Demo Game for Mobile HTML5 Game Development. | [GitHub](https://github.com/cykod/AlienInvasion) | [Play](http://cykod.github.io/AlienInvasion/) |
 | Arashi | Arashi is a clone of the Arcade game Tempest. | [GitHub](https://github.com/stephank/arashi-js) | [!Play](http://stephank.github.io/arashi-js/) |
-| Asteroids | Pure JavaScript asteroids. | [GitHub](http://github.com/dmcinnes/HTML5-Asteroids) | [Play](http://dougmcinnes.com/html-5-asteroids/) |
+| Asteroids | Pure JavaScript asteroids. | [GitHub](http://github.com/dmcinnes/HTML5-Asteroids) | -|
+| Asteroids | Recreation of the Asteroids in pure JavaScript | [CodePen](https://codepen.io/Margaux-dev/pen/XWXqRYX) | [Play](https://codepen.io/Margaux-dev/full/XWXqRYX) |
 | Avabranch | GitHub Game Off 2012 entry. | [GitHub](https://github.com/Zolmeister/avabranch) | [Play](http://avabranch.zolmeister.com/) |
 | Ball And Wall | Pure JavaScript arkanoid style game. | [GitHub](https://github.com/budnix/ball-and-wall) | [Play](http://ballandwall.com/) |
 | Bit Maze | A simple platformer maze | [CodePen](https://codepen.io/takaneichinose/pen/jOYPjgz) | [Play](https://codepen.io/takaneichinose/full/jOYPjgz) |
