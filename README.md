@@ -461,6 +461,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Space Engineers | Space Engineers is a voxel-based sandbox game set in an asteroid field in space. | [GitHub](https://github.com/KeenSoftwareHouse/SpaceEngineers) | - |
 | Terasology | Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility. | [GitHub](https://github.com/MovingBlocks/Terasology) | - |
 | The Powder Toy | Falling-sand physics sandbox game. | [GitHub](https://github.com/simtr/The-Powder-Toy) | - |
+| Veloren | Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft. | [GitLab](https://gitlab.com/veloren/veloren) | - |
 
 ## Strategy
 
