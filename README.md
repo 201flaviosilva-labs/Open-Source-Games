@@ -150,6 +150,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Super Mario Bros | Super Mario Bros level one written with Backbone Game Engine. | [GitHub](https://github.com/martindrapeau/backbone-game-engine) | [Play](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html) |
 | Survivor | Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. | [GitHub](https://github.com/scottschiller/SURVIVOR) | [Play](http://www.schillmania.com/survivor/) |
 | The frantic run of the valorous rabbit | Save this little guy from this (not so evil) wolf.| [CodePen](https://codepen.io/Yakudoo/pen/YGxYej) | [Play](https://codepen.io/Yakudoo/full/YGxYej) |
+| TOSIOS | The Open-Source IO Shooter is an open-source multiplayer game in the browser | [GitHub](https://github.com/halftheopposite/TOSIOS) | [Play](https://tosios.online/) |
 | Tower Blocks | Tower building game. Place blocks by clicking, tapping or spacebarring. | [CodePen](https://codepen.io/ste-vg/pen/ppLQNW) | [Play](https://codepen.io/ste-vg/full/ppLQNW) |
 | Vanilla JS Snake | A vanilla glow snake game. | [CodePen](https://codepen.io/fariati/pen/mdRpEYP) | [Play](https://codepen.io/fariati/full/mdRpEYP) |
 | WPilot | A browser-based remake of the famous XPilot game, built with NodeJS and HTML5 | [GitHub](https://github.com/jfd/wpilot) | - |
