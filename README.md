@@ -149,6 +149,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Space Invaders | Remake of Space Invaders in require.js. | [GitHub](https://github.com/StrykerKKD/SpaceInvaders) | - |
 | Super Mario Bros | Super Mario Bros level one written with Backbone Game Engine. | [GitHub](https://github.com/martindrapeau/backbone-game-engine) | [Play](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html) |
 | Survivor | Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. | [GitHub](https://github.com/scottschiller/SURVIVOR) | [Play](http://www.schillmania.com/survivor/) |
+| The Final Fate | A 2D space shooter coded with HTML5 and JavaScript. No frameworks used. Keyboard, gamepad and touch controls. | [GitHub](https://github.com/MengelCode/finalfate) | [Play](https://manuel-engel.de/finalfate/finalfate) |
 | The frantic run of the valorous rabbit | Save this little guy from this (not so evil) wolf.| [CodePen](https://codepen.io/Yakudoo/pen/YGxYej) | [Play](https://codepen.io/Yakudoo/full/YGxYej) |
 | TOSIOS | The Open-Source IO Shooter is an open-source multiplayer game in the browser | [GitHub](https://github.com/halftheopposite/TOSIOS) | [Play](https://tosios.online/) |
 | Tower Blocks | Tower building game. Place blocks by clicking, tapping or spacebarring. | [CodePen](https://codepen.io/ste-vg/pen/ppLQNW) | [Play](https://codepen.io/ste-vg/full/ppLQNW) |
