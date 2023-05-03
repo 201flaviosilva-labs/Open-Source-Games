@@ -1,0 +1,15 @@
+{
+  "name": "open-source-games",
+  "description": "A list of open source games",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "201flaviosilva",
+  "license": "MIT",
+  "scripts": {
+    "sort": "sort-markdown-tables -i -a README.md"
+  },
+  "dependencies": {
+    "@fmma-npm/sort-markdown-tables": "^1.0.12"
+  },
+  "keywords": []
+}

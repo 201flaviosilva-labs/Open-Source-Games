@@ -1,0 +1,31 @@
+name: Bump Version
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  bump-version:
+    name: Bump package version
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      - name: cat package.json
+        run: cat ./package.json
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 19
+
+      - name: Automated Version Bump
+        uses: phips28/gh-action-bump-version@master
+
+      - name: cat package.json
+        run: cat ./package.json
