@@ -1,6 +1,6 @@
 # Open Source Games
 
-<img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Swimming Octocat"> 
+<img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Swimming Octocat">
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
@@ -20,37 +20,42 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 
 # Table of Contents
 
+- [Open Source Games](#open-source-games)
+	- [Contributing](#contributing)
 - [Table of Contents](#table-of-contents)
 - [Browser-Based](#browser-based)
-  - [Arcade](#arcade)
-  - [FPS](#fps)
-  - [RPG](#rpg)
-  - [MMORPG](#mmorpg)
-  - [Strategy](#strategy)
-  - [Racing](#racing)
-  - [Sandbox](#sandbox)
-  - [Puzzle/Card/Board](#puzzlecardboard)
-  - [Clicker](#clicker)
-  - [Point and Click](#point-and-click)
-  - [Others](#others)
+	- [Arcade](#arcade)
+	- [FPS](#fps)
+	- [RPG](#rpg)
+	- [MMORPG](#mmorpg)
+	- [Strategy](#strategy)
+	- [Racing](#racing)
+	- [Sandbox](#sandbox)
+	- [Puzzle/Card/Board](#puzzlecardboard)
+	- [Clicker](#clicker)
+	- [Point and Click](#point-and-click)
+	- [Others](#others)
 - [Desktop](#desktop)
-  - [Action](#action)
-  - [Arcade](#arcade-1)
-  - [FPS](#fps-1)
-  - [MMORPG](#mmorpg-1)
-  - [RPG](#rpg-1)
-  - [Platform](#platform)
-  - [Puzzle/Card/Board](#puzzlecardboard-1)
-  - [Racing](#racing-1)
-  - [Programming](#programming)
-  - [Sandbox](#sandbox-1)
-  - [Strategy](#strategy-1)
-  - [Others](#others-1)
-- [Mobile Games](#mobile)
-  - [Android](#android)
-  - [IOS](#ios)
+	- [Action](#action)
+	- [Arcade](#arcade-1)
+	- [FPS](#fps-1)
+	- [MMORPG](#mmorpg-1)
+	- [RPG](#rpg-1)
+	- [Platform](#platform)
+	- [Puzzle/Card/Board](#puzzlecardboard-1)
+	- [Racing](#racing-1)
+	- [Programming](#programming)
+	- [Sandbox](#sandbox-1)
+	- [Strategy](#strategy-1)
+	- [Others](#others-1)
+- [Mobile](#mobile)
+	- [Android](#android)
+	- [IOS](#ios)
 - [References](#references)
 - [Legend](#legend)
+- [Amazing Community](#amazing-community)
+	- [Stargazers](#stargazers)
+	- [Forkers](#forkers)
 - [License](#license)
 
 -------
@@ -574,8 +579,21 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 
 -------
 
+# Amazing Community
+
+## Stargazers
+
+[![Stargazers](https://reporoster.com/stars/201flaviosilva-labs/Open-Source-Games)](https://github.com/201flaviosilva-labs/Open-Source-Games/stargazers)
+
+## Forkers
+
+[![Forkers](https://reporoster.com/forks/201flaviosilva-labs/Open-Source-Games)](https://github.com/201flaviosilva-labs/Open-Source-Games/network/members)
+
+-------
+
+
 # License
 
-Based on the original work of the original author (Lee Reilly), I need to keep the original license.
+Based on the original work of the original author ([Lee Reilly](https://github.com/leereilly/games)), I need to keep the original license.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
