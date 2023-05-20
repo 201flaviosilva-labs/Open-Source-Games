@@ -199,6 +199,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Name | Description | Source | Play |
 | ---- | ----------- | ------ | ---- |
 | HexGL | Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. | [GitHub](https://github.com/BKcore/HexGL) | [Play](http://hexgl.bkcore.com/) |
+| Night Bike | Ride your motorcycle through the city at night! Jump over as many vehicles as you can! | [GitHub](https://github.com/mattjennings/nightbike) | [Play](https://nightbike.mattjennin.gs/) |
 | Trigger Rally Online Edition | Fast arcade rally racing. | [GitHub](https://github.com/CodeArtemis/TriggerRally) | [Play](https://codeartemis.github.io/TriggerRally/server/public/) |
 
 ## Sandbox
@@ -295,6 +296,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | HeartLine | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/gamebytes/heartline.github.com) | - |
 | Psiral | JavaScript/HTML5 game, GitHub Game Off 2 winner. | [GitHub](https://github.com/petarov/game-off-2013) | [Play](http://psiral.herokuapp.com/) |
 | Squirts | Well-known indie game implemented in JavaScript. | [GitHub](https://github.com/KrofDrakula/squirts) | - |
+| Super Metronome Hero | Super Metronome Hero is a rhythm game. Try to hit the metronme in right time. | [GitHub](https://github.com/dcgw/super-metronome-hero) | [Play](https://super-metronome-hero.vidja.games/) |
 | The Killer | Flash/ActionScript3-based "nongame". | [GitHub](https://github.com/JordanMagnuson/The-Killer) | [Play](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now) |
 | Turkey Cooking Simulator | You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. | [GitHub](https://github.com/fernjager/game-off-2013) | [Play](http://fernjager.github.io/game-off-2013/index.html) |
 | binb | Competitive, multiplayer, realtime, guess the song game. | [GitHub](https://github.com/lpinca/binb) | [Play](https://binb.co) |
