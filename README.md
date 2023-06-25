@@ -243,6 +243,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Green Mahjong | Solitaire mahjong game done in HTML/CSS/JS. | [GitHub](https://github.com/danbeck/green-mahjong) | [Play](http://greenmahjong.daniel-beck.org/) |
 | Hex 2048 | Hexgrid-based clone of 2048. | [GitHub](https://github.com/jeffhou/hex-2048) | [Play](https://jeffhou.github.io/hex-2048/) |
 | Hexahedral | Push down all the blocks in the minimum number of moves. | [GitHub](https://github.com/mminer/hexahedral) | [Play](http://matthewminer.com/hexahedral) |
+| Hexapipees | Restore a scrambled network of connections by rotating tiles of the board | [GitHub](https://github.com/gereleth/hexapipes) | [Play](https://hexapipes.vercel.app/) |
 | Hextris | Addictive puzzle game inspired by Tetris. | [GitHub](https://github.com/Hextris/hextris) | [Play](http://hextris.io/) |
 | Infectors | Sokoban-like puzzle game developed with Phaser. | [GitHub](https://github.com/satanas/infectors) | [Play](http://satanas.github.io/infectors/) |
 | Kriegspiel | The game of imperfect information, the Kriegspiel chess variant. | [GitHub](https://github.com/binarymax/kriegspiel) | [!Play](http://krgspl.com/) |
