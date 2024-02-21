@@ -229,6 +229,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | BitBot | HTML/JS game where you control a bot, which must sense, plan, and act. | [GitHub](https://github.com/recardona/BitBot) | - |
 | BlicblockJS | JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board. | [GitHub](https://github.com/cheshire137/blicblock-js) | - |
 | Blockrain.js | Embed & play the classic game on your site. Simple as that. | [GitHub](https://github.com/Aerolab/blockrain.js) | [Play](http://aerolab.github.io/blockrain.js/) |
+| Boxcars | Play backgammon online via [bgammon.org](https://bgammon.org) | [Git](https://code.rocket9labs.com/tslocum/boxcars) | [Play](https://play.bgammon.org) |
 | Branching Out | Minimalist game about leaving home. | [GitHub](https://github.com/thehen/game-off-2012) | [Play](http://henryhoffman.com/branchingout/) |
 | Clone Man | Puzzle, memory, retro game with simple graphics. | [GitHub](https://github.com/adhicl/game-off-2012) | [Play](http://www.kongregate.com/games/Sorobaid/clone-man) |
 | Copycat | A puzzle game to put all cats at the same time in different holes | [CodePen](https://codepen.io/Gthibaud/pen/ryQRYP) | [Play](https://codepen.io/Gthibaud/full/ryQRYP) |
