@@ -461,7 +461,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | ---- | ----------- | ------ | ---------------------- |
 | Blackvoxel | Sandbox game based on a molecular voxel interaction engine. | [GitHub](https://github.com/Blackvoxel/Blackvoxel) | - |
 | Craft | Simple Minecraft clone written in C using modern OpenGL. | [GitHub](https://github.com/fogleman/Craft) | - |
-| Cubyz | Cubyz is a fully written in the Zig language. Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. | [Cubyz](https://github.com/PixelGuys/Cubyz) | - |
+| Cubyz | Cubyz is a fully written in the Zig language. Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. | [GitHub](https://github.com/PixelGuys/Cubyz) | - |
 | Endless Sky | Space trading and combat game similar to the classic Escape Velocity series. | [GitHub](https://github.com/endless-sky/endless-sky) | - |
 | FreeSO | FreeSO is a reimplementation of The Sims Online™’s game engine, using C# and Monogame. | [GitHub](https://github.com/riperiperi/FreeSO) | - |
 | Freeminer | Sandbox game inspired by Minecraft. | [GitHub](https://github.com/freeminer/freeminer) | - |
