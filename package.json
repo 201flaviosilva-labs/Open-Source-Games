@@ -1,7 +1,7 @@
 {
   "name": "open-source-games",
   "description": "A list of open source games",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "author": "201flaviosilva",
   "license": "MIT",
