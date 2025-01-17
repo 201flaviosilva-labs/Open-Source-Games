@@ -376,6 +376,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | ---- | ----------- | ------ | ---------------------- |
 | Meridian 59 | The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. | [GitHub](https://github.com/Meridian59/Meridian59) | [Play](http://www.meridian59.com) |
 | Open Meridian | The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed. | [GitHub](https://github.com/OpenMeridian/Meridian59) | [Play](http://openmeridian.org) |
+| Reia | RPG action-adventure MMO game built with Godot, Rust, and Zig. Focuses on story, combat, and a sandbox experience.  | [GitHub](https://github.com/Quaint-Studios/Reia) | [Play](https://www.playreia.com) |
 | Stendhal | A fun friendly and free 2D multiplayer online adventure game with an old school feel. | [GitHub](https://github.com/arianne/stendhal) | [Play](https://stendhalgame.org) |
 
 ## RPG
