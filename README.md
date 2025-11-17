@@ -542,6 +542,8 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | PuzzleGame | Slider puzzle game implementation created with Cocos2d for Android. | [GitHub](https://github.com/chuvidi2003/PuzzleGame) |
 | Skulls | A simple Columns-like strategy game developed in Golang with the Ebiten library (for Android). | [GitHub](https://github.com/rootVIII/skulls) | [Store](https://play.google.com/store/apps/details?id=com.solsticenet.skullsmobile) |
 | Wannabe Tempest | Clone of 80's coin-op arcade game Tempest(80's arcade game). | [GitHub](https://github.com/awlzac/wbta) |
+| Mobile Top-Down Survival | A Godot top-down survival game developed for mobile devices. | [GitHub](https://github.com/Stoniye/Mobile-Top-Down-Survival-Godot) |
+| Mindustry Godot | A attempted Mindustry remake in Godot. | [GitHub](https://github.com/Stoniye/Mindustry-Godot) |
 
 ## IOS
 
