@@ -286,6 +286,11 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | ---- | ----------- | ------ | ---- |
 | The House | You're in a strange house. Can you find the way out? Is there any? | [GitHub](https://github.com/arturkot/the-house-game) | [Play](https://the-house.arturkot.pl/) |
 
+## Geography
+
+- [World Chase](https://worldchase.net) - Competitive weekly geography game. Decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels, 25 new challenges every week. [[source]](https://github.com/JezKirkpatrick/WorldChase)
+- [Kids World Chase](https://kidsworldchase.net) - Weekly geography adventure for children aged 8-13. Solve riddles and explore real locations via Google Street View. [[source]](https://github.com/JezKirkpatrick/kids-world-chase)
+
 ## Others
 
 | Name | Description | Source | Play |
