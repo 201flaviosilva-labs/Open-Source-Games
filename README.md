@@ -172,6 +172,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 
 | Name | Description | Source | Play |
 | ---- | ----------- | ------ | ---- |
+| Civic Nightmare | Satirical top-down bureaucracy RPG built with Godot 4.6. | [GitHub](https://github.com/Daniele-Cangi/civic-nightmare) | [Play](https://daniele-cangi.github.io/civic-nightmare/) |
 | Diablo JS | Isometric minimal-code style game at html5 canvas and javascript. | [GitHub](https://github.com/mitallast/diablo-js) |  [Play](http://mitallast.github.io/diablo-js/) |
 | Mazmorra | 🗡 Online Multiplayer Dungeon Crawler powered by Colyseus - https://gum.co/mazmorra | [GitHub](https://github.com/endel/mazmorra) | [Play](https://mazmorra.io/) |
 | Roguish | RPG/Rogue-like game created in JavaScript. | [GitHub](https://github.com/CamHenlin/Roguish) | - |
