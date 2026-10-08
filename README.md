@@ -247,6 +247,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Hexapipees | Restore a scrambled network of connections by rotating tiles of the board | [GitHub](https://github.com/gereleth/hexapipes) | [Play](https://hexapipes.vercel.app/) |
 | Hextris | Addictive puzzle game inspired by Tetris. | [GitHub](https://github.com/Hextris/hextris) | [Play](http://hextris.io/) |
 | Infectors | Sokoban-like puzzle game developed with Phaser. | [GitHub](https://github.com/satanas/infectors) | [Play](http://satanas.github.io/infectors/) |
+| Ink Side Down | Daily logic puzzle: roll a cube whose one inked side prints every square it lands on, and print only the marked squares. Vanilla JS, single file. | [GitHub](https://github.com/646826/arkai-games/tree/main/games/ink-side-down) | [Play](https://arkai.win/games/ink-side-down/) |
 | Kriegspiel | The game of imperfect information, the Kriegspiel chess variant. | [GitHub](https://github.com/binarymax/kriegspiel) | [!Play](http://krgspl.com/) |
 | Lichess | Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. | [GitHub](https://github.com/ornicar/lila) | [Play](http://lichess.org/) |
 | Lost! Beneath the Surface | You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark. | [GitHub](https://github.com/gamedolphin/Lost-Beneath-The-Surface) | - |
@@ -254,6 +255,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Maze 3D | A 3D maze game. | [GitHub](https://github.com/demonixis/Maze3D) | [Play](http://demonixis.github.io/Maze3D/) |
 | Monkey Rally | JavaScript game created for the Ludum Dare jam. | [GitHub](https://github.com/antila/ludum-dare-28) | [Play](http://antila.github.io/ludum-dare-28/) |
 | Ned Et Les Maki | Puzzle game with isometric 3D graphics inspired by Sokoban. | [GitHub](https://github.com/devnewton/nedetlesmaki) | [Play](http://play.bci.im/nedetlesmaki/) |
+| One Step Late | Daily logic puzzle: your shadow repeats each move one turn late, and both of you have to arrive at the same moment. Vanilla JS, single file. | [GitHub](https://github.com/646826/arkai-games/tree/main/games/one-step-late) | [Play](https://arkai.win/games/one-step-late/) |
 | Orbium | Modern version of the 90's game Log!cal. | [GitHub](https://github.com/bni/orbium) | [Play](http://bni.github.io/orbium/) |
 | Parity | A numbers puzzle game. | [GitHub](https://github.com/abejfehr/parity) | [Play](http://abefehr.com/parity/) |
 | Pond | A narrow fellow in the Pond. | [GitHub](https://github.com/Zolmeister/pond) | [Play](http://thepond.zolmeister.com/) |
