@@ -157,6 +157,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | The Final Fate | A 2D space shooter coded with HTML5 and JavaScript. No frameworks used. Keyboard, gamepad and touch controls. | [GitHub](https://github.com/MengelCode/finalfate) | [Play](https://manuel-engel.de/finalfate/finalfate) |
 | The frantic run of the valorous rabbit | Save this little guy from this (not so evil) wolf.| [CodePen](https://codepen.io/Yakudoo/pen/YGxYej) | [Play](https://codepen.io/Yakudoo/full/YGxYej) |
 | Tower Blocks | Tower building game. Place blocks by clicking, tapping or spacebarring. | [CodePen](https://codepen.io/ste-vg/pen/ppLQNW) | [Play](https://codepen.io/ste-vg/full/ppLQNW) |
+| Trick or Take | Halloween multiplayer candy heist with live WebRTC voice rooms | [GitHub](https://github.com/AgoraIO-Community/trick-or-take) | [Play](https://trickortake.com) |
 | Vanilla JS Snake | A vanilla glow snake game. | [CodePen](https://codepen.io/fariati/pen/mdRpEYP) | [Play](https://codepen.io/fariati/full/mdRpEYP) |
 | WPilot | A browser-based remake of the famous XPilot game, built with NodeJS and HTML5 | [GitHub](https://github.com/jfd/wpilot) | - |
 | hurry! | Small but speedy arcade shooter. | [GitHub](https://github.com/hughsk/ludum-dare-27) | [Play](http://hughsk.io/ludum-dare-27/) |
