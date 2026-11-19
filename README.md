@@ -158,6 +158,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | The frantic run of the valorous rabbit | Save this little guy from this (not so evil) wolf.| [CodePen](https://codepen.io/Yakudoo/pen/YGxYej) | [Play](https://codepen.io/Yakudoo/full/YGxYej) |
 | Tower Blocks | Tower building game. Place blocks by clicking, tapping or spacebarring. | [CodePen](https://codepen.io/ste-vg/pen/ppLQNW) | [Play](https://codepen.io/ste-vg/full/ppLQNW) |
 | Vanilla JS Snake | A vanilla glow snake game. | [CodePen](https://codepen.io/fariati/pen/mdRpEYP) | [Play](https://codepen.io/fariati/full/mdRpEYP) |
+| VOIDSTORM | Neon arena survival shooter in vanilla JavaScript with five enemy types, a boss fight, upgrade drafts, and endless mode. All sound and music is synthesized live with WebAudio. | [GitHub](https://github.com/kamalmosadegh/voidstorm) | [Play](https://kamalmosadegh.github.io/voidstorm/game/) |
 | WPilot | A browser-based remake of the famous XPilot game, built with NodeJS and HTML5 | [GitHub](https://github.com/jfd/wpilot) | - |
 | hurry! | Small but speedy arcade shooter. | [GitHub](https://github.com/hughsk/ludum-dare-27) | [Play](http://hughsk.io/ludum-dare-27/) |
 | zedinvaders | Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". | [GitHub](https://github.com/salvatorecapolupo/zedinvaders) | [Play](https://gamejolt.com/games/zed-invaders-2-0/49980) |
@@ -300,6 +301,7 @@ Check [Contributors Hall of Fame List](https://github.com/201flaviosilva/Open-So
 | Hauberk | Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser. | [GitHub](https://github.com/munificent/hauberk) | - |
 | HeartLine | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/gamebytes/heartline.github.com) | - |
 | Psiral | JavaScript/HTML5 game, GitHub Game Off 2 winner. | [GitHub](https://github.com/petarov/game-off-2013) | [Play](http://psiral.herokuapp.com/) |
+| Solmar Bay | Top-down open-world crime game in plain JavaScript with living traffic, police AI with a 5-star wanted system, 6 missions, and a save system. | [GitHub](https://github.com/kamalmosadegh/solmar-bay) | [Play](https://kamalmosadegh.github.io/solmar-bay/game/) |
 | Squirts | Well-known indie game implemented in JavaScript. | [GitHub](https://github.com/KrofDrakula/squirts) | - |
 | Super Metronome Hero | Super Metronome Hero is a rhythm game. Try to hit the metronme in right time. | [GitHub](https://github.com/dcgw/super-metronome-hero) | [Play](https://super-metronome-hero.vidja.games/) |
 | The Killer | Flash/ActionScript3-based "nongame". | [GitHub](https://github.com/JordanMagnuson/The-Killer) | [Play](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now) |
